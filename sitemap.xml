@@ -1,3 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>None./</loc>
+        <lastmod>2025-12-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+        <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/"/>
+    </url>
+    <url>
+        <loc>Nonechassis/acxwa-cd/acxwa-cd/</loc>
+        <lastmod>2025-12-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonechassis/acxwa-cd/acxwa-cd/"/>
+        <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/chassis/acxwa-cd/acxwa-cd/"/>
+    </url>
+    <url>
+        <loc>Nonechassis/tg-super-fire/tg-super-fire/</loc>
+        <lastmod>2025-12-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonechassis/tg-super-fire/tg-super-fire/"/>
+        <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/chassis/tg-super-fire/tg-super-fire/"/>
+    </url>
+    <url>
+        <loc>Nonehistory/how-rwd-came-to-small-scale/</loc>
+        <lastmod>2025-12-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonehistory/how-rwd-came-to-small-scale/"/>
+        <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/history/how-rwd-came-to-small-scale/"/>
+    </url>
+    <url>
+        <loc>Nonebg/</loc>
+        <lastmod>2025-12-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+    </url>
+    <url>
+        <loc>Nonebg/chassis/acxwa-cd/acxwa-cd/</loc>
+        <lastmod>2025-12-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/chassis/acxwa-cd/acxwa-cd/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonechassis/acxwa-cd/acxwa-cd/"/>
+    </url>
+    <url>
+        <loc>Nonebg/chassis/tg-super-fire/tg-super-fire/</loc>
+        <lastmod>2025-12-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/chassis/tg-super-fire/tg-super-fire/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonechassis/tg-super-fire/tg-super-fire/"/>
+    </url>
+    <url>
+        <loc>Nonebg/history/how-rwd-came-to-small-scale/</loc>
+        <lastmod>2025-12-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/history/how-rwd-came-to-small-scale/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonehistory/how-rwd-came-to-small-scale/"/>
+    </url>
 </urlset>
