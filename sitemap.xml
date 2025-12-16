@@ -15,6 +15,13 @@
         <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/chassis/acxwa-cd/acxwa-cd/"/>
     </url>
     <url>
+        <loc>Nonechassis/leya/kronoz/kronoz/</loc>
+        <lastmod>2025-12-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonechassis/leya/kronoz/kronoz/"/>
+        <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/chassis/leya/kronoz/kronoz/"/>
+    </url>
+    <url>
         <loc>Nonechassis/tg/tg-super-fire/tg-super-fire/</loc>
         <lastmod>2025-12-16</lastmod>
         <changefreq>daily</changefreq>
@@ -41,6 +48,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/chassis/acxwa-cd/acxwa-cd/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Nonechassis/acxwa-cd/acxwa-cd/"/>
+    </url>
+    <url>
+        <loc>Nonebg/chassis/leya/kronoz/kronoz/</loc>
+        <lastmod>2025-12-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/chassis/leya/kronoz/kronoz/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonechassis/leya/kronoz/kronoz/"/>
     </url>
     <url>
         <loc>Nonebg/chassis/tg/tg-super-fire/tg-super-fire/</loc>
