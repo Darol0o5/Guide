@@ -8,6 +8,13 @@
         <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/"/>
     </url>
     <url>
+        <loc>Nonechassis/catalogue/</loc>
+        <lastmod>2025-12-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonechassis/catalogue/"/>
+        <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/chassis/catalogue/"/>
+    </url>
+    <url>
         <loc>Nonechassis/acxwa-cd/acxwa-cd/</loc>
         <lastmod>2025-12-17</lastmod>
         <changefreq>daily</changefreq>
@@ -41,6 +48,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/"/>
         <xhtml:link rel="alternate" hreflang="en" href="None"/>
+    </url>
+    <url>
+        <loc>Nonebg/chassis/catalogue/</loc>
+        <lastmod>2025-12-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/chassis/catalogue/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonechassis/catalogue/"/>
     </url>
     <url>
         <loc>Nonebg/chassis/acxwa-cd/acxwa-cd/</loc>
