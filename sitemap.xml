@@ -2,84 +2,98 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
         <loc>None./</loc>
-        <lastmod>2025-12-17</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="None"/>
         <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/"/>
     </url>
     <url>
         <loc>Nonechassis/catalogue/</loc>
-        <lastmod>2025-12-17</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Nonechassis/catalogue/"/>
         <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/chassis/catalogue/"/>
     </url>
     <url>
         <loc>Nonechassis/acxwa-cd/acxwa-cd/</loc>
-        <lastmod>2025-12-17</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Nonechassis/acxwa-cd/acxwa-cd/"/>
         <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/chassis/acxwa-cd/acxwa-cd/"/>
     </url>
     <url>
         <loc>Nonechassis/leya/kronoz/kronoz/</loc>
-        <lastmod>2025-12-17</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Nonechassis/leya/kronoz/kronoz/"/>
         <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/chassis/leya/kronoz/kronoz/"/>
     </url>
     <url>
         <loc>Nonechassis/tg/tg-super-fire/tg-super-fire/</loc>
-        <lastmod>2025-12-17</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Nonechassis/tg/tg-super-fire/tg-super-fire/"/>
         <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/chassis/tg/tg-super-fire/tg-super-fire/"/>
     </url>
     <url>
+        <loc>Nonecontribute/contribute/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonecontribute/contribute/"/>
+        <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/contribute/contribute/"/>
+    </url>
+    <url>
         <loc>Nonehistory/how-rwd-came-to-small-scale/</loc>
-        <lastmod>2025-12-17</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Nonehistory/how-rwd-came-to-small-scale/"/>
         <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/history/how-rwd-came-to-small-scale/"/>
     </url>
     <url>
         <loc>Nonebg/</loc>
-        <lastmod>2025-12-17</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/"/>
         <xhtml:link rel="alternate" hreflang="en" href="None"/>
     </url>
     <url>
         <loc>Nonebg/chassis/catalogue/</loc>
-        <lastmod>2025-12-17</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/chassis/catalogue/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Nonechassis/catalogue/"/>
     </url>
     <url>
         <loc>Nonebg/chassis/acxwa-cd/acxwa-cd/</loc>
-        <lastmod>2025-12-17</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/chassis/acxwa-cd/acxwa-cd/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Nonechassis/acxwa-cd/acxwa-cd/"/>
     </url>
     <url>
         <loc>Nonebg/chassis/leya/kronoz/kronoz/</loc>
-        <lastmod>2025-12-17</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/chassis/leya/kronoz/kronoz/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Nonechassis/leya/kronoz/kronoz/"/>
     </url>
     <url>
         <loc>Nonebg/chassis/tg/tg-super-fire/tg-super-fire/</loc>
-        <lastmod>2025-12-17</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/chassis/tg/tg-super-fire/tg-super-fire/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Nonechassis/tg/tg-super-fire/tg-super-fire/"/>
     </url>
     <url>
+        <loc>Nonebg/contribute/contribute/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/contribute/contribute/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonecontribute/contribute/"/>
+    </url>
+    <url>
         <loc>Nonebg/history/how-rwd-came-to-small-scale/</loc>
-        <lastmod>2025-12-17</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/history/how-rwd-came-to-small-scale/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Nonehistory/how-rwd-came-to-small-scale/"/>
