@@ -9,7 +9,7 @@
   margin: 0 auto;
 }
 .md-typeset .grid.cards a:hover img {
-  transform: scale(1.6);
+  transform: scale(1.4);
   transition: transform 0.2s ease-in-out;
 }
 
