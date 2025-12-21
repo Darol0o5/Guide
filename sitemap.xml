@@ -526,6 +526,13 @@
         <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/chassis/sleipnir/page/"/>
     </url>
     <url>
+        <loc>Nonechassis/sleipnir/sleipnir-pro/</loc>
+        <lastmod>2025-12-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonechassis/sleipnir/sleipnir-pro/"/>
+        <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/chassis/sleipnir/sleipnir-pro/"/>
+    </url>
+    <url>
         <loc>Nonechassis/slimmer/page/</loc>
         <lastmod>2025-12-21</lastmod>
         <changefreq>daily</changefreq>
@@ -1189,6 +1196,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/chassis/sleipnir/page/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Nonechassis/sleipnir/page/"/>
+    </url>
+    <url>
+        <loc>Nonebg/chassis/sleipnir/sleipnir-pro/</loc>
+        <lastmod>2025-12-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/chassis/sleipnir/sleipnir-pro/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonechassis/sleipnir/sleipnir-pro/"/>
     </url>
     <url>
         <loc>Nonebg/chassis/slimmer/page/</loc>
