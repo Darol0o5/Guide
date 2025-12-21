@@ -526,11 +526,11 @@
         <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/chassis/sleipnir/page/"/>
     </url>
     <url>
-        <loc>Nonechassis/slimer/page/</loc>
+        <loc>Nonechassis/slimmer/page/</loc>
         <lastmod>2025-12-21</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Nonechassis/slimer/page/"/>
-        <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/chassis/slimer/page/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonechassis/slimmer/page/"/>
+        <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/chassis/slimmer/page/"/>
     </url>
     <url>
         <loc>Nonechassis/soos/page/</loc>
@@ -1191,11 +1191,11 @@
         <xhtml:link rel="alternate" hreflang="en" href="Nonechassis/sleipnir/page/"/>
     </url>
     <url>
-        <loc>Nonebg/chassis/slimer/page/</loc>
+        <loc>Nonebg/chassis/slimmer/page/</loc>
         <lastmod>2025-12-21</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/chassis/slimer/page/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Nonechassis/slimer/page/"/>
+        <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/chassis/slimmer/page/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonechassis/slimmer/page/"/>
     </url>
     <url>
         <loc>Nonebg/chassis/soos/page/</loc>
