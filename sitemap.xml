@@ -526,6 +526,20 @@
         <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/chassis/sleipnir/page/"/>
     </url>
     <url>
+        <loc>Nonechassis/sleipnir/sleipnir-ii/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonechassis/sleipnir/sleipnir-ii/"/>
+        <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/chassis/sleipnir/sleipnir-ii/"/>
+    </url>
+    <url>
+        <loc>Nonechassis/sleipnir/sleipnir-iii/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonechassis/sleipnir/sleipnir-iii/"/>
+        <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/chassis/sleipnir/sleipnir-iii/"/>
+    </url>
+    <url>
         <loc>Nonechassis/sleipnir/sleipnir-pro/</loc>
         <lastmod>2025-12-22</lastmod>
         <changefreq>daily</changefreq>
@@ -1196,6 +1210,20 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/chassis/sleipnir/page/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Nonechassis/sleipnir/page/"/>
+    </url>
+    <url>
+        <loc>Nonebg/chassis/sleipnir/sleipnir-ii/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/chassis/sleipnir/sleipnir-ii/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonechassis/sleipnir/sleipnir-ii/"/>
+    </url>
+    <url>
+        <loc>Nonebg/chassis/sleipnir/sleipnir-iii/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bg" href="Nonebg/chassis/sleipnir/sleipnir-iii/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonechassis/sleipnir/sleipnir-iii/"/>
     </url>
     <url>
         <loc>Nonebg/chassis/sleipnir/sleipnir-pro/</loc>
