@@ -50,18 +50,25 @@
         <xhtml:link rel="alternate" hreflang="bg" href="https://darol0o5.github.io/Guide/bg/chassis/atomic/drz/page/"/>
     </url>
     <url>
-        <loc>https://darol0o5.github.io/Guide/chassis/atomic/drz-3/page/</loc>
-        <lastmod>2026-01-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://darol0o5.github.io/Guide/chassis/atomic/drz-3/page/"/>
-        <xhtml:link rel="alternate" hreflang="bg" href="https://darol0o5.github.io/Guide/bg/chassis/atomic/drz-3/page/"/>
-    </url>
-    <url>
         <loc>https://darol0o5.github.io/Guide/chassis/atomic/drz2/page/</loc>
         <lastmod>2026-01-14</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://darol0o5.github.io/Guide/chassis/atomic/drz2/page/"/>
         <xhtml:link rel="alternate" hreflang="bg" href="https://darol0o5.github.io/Guide/bg/chassis/atomic/drz2/page/"/>
+    </url>
+    <url>
+        <loc>https://darol0o5.github.io/Guide/chassis/atomic/drz3mp/page/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://darol0o5.github.io/Guide/chassis/atomic/drz3mp/page/"/>
+        <xhtml:link rel="alternate" hreflang="bg" href="https://darol0o5.github.io/Guide/bg/chassis/atomic/drz3mp/page/"/>
+    </url>
+    <url>
+        <loc>https://darol0o5.github.io/Guide/chassis/atomic/drz3ms/page/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://darol0o5.github.io/Guide/chassis/atomic/drz3ms/page/"/>
+        <xhtml:link rel="alternate" hreflang="bg" href="https://darol0o5.github.io/Guide/bg/chassis/atomic/drz3ms/page/"/>
     </url>
     <url>
         <loc>https://darol0o5.github.io/Guide/chassis/bm-racing/bmrx/page/</loc>
@@ -414,6 +421,20 @@
         <xhtml:link rel="alternate" hreflang="bg" href="https://darol0o5.github.io/Guide/bg/chassis/mj-rwd/page/"/>
     </url>
     <url>
+        <loc>https://darol0o5.github.io/Guide/chassis/mj-rwd/custom/page/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://darol0o5.github.io/Guide/chassis/mj-rwd/custom/page/"/>
+        <xhtml:link rel="alternate" hreflang="bg" href="https://darol0o5.github.io/Guide/bg/chassis/mj-rwd/custom/page/"/>
+    </url>
+    <url>
+        <loc>https://darol0o5.github.io/Guide/chassis/mj-rwd/thanos/page/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://darol0o5.github.io/Guide/chassis/mj-rwd/thanos/page/"/>
+        <xhtml:link rel="alternate" hreflang="bg" href="https://darol0o5.github.io/Guide/bg/chassis/mj-rwd/thanos/page/"/>
+    </url>
+    <url>
         <loc>https://darol0o5.github.io/Guide/chassis/monk9/page/</loc>
         <lastmod>2026-01-14</lastmod>
         <changefreq>daily</changefreq>
@@ -498,13 +519,6 @@
         <xhtml:link rel="alternate" hreflang="bg" href="https://darol0o5.github.io/Guide/bg/chassis/rw00/page/"/>
     </url>
     <url>
-        <loc>https://darol0o5.github.io/Guide/chassis/rw00sr/page/</loc>
-        <lastmod>2026-01-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://darol0o5.github.io/Guide/chassis/rw00sr/page/"/>
-        <xhtml:link rel="alternate" hreflang="bg" href="https://darol0o5.github.io/Guide/bg/chassis/rw00sr/page/"/>
-    </url>
-    <url>
         <loc>https://darol0o5.github.io/Guide/chassis/seraphim/page/</loc>
         <lastmod>2026-01-14</lastmod>
         <changefreq>daily</changefreq>
@@ -566,20 +580,6 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://darol0o5.github.io/Guide/chassis/srikandi/page/"/>
         <xhtml:link rel="alternate" hreflang="bg" href="https://darol0o5.github.io/Guide/bg/chassis/srikandi/page/"/>
-    </url>
-    <url>
-        <loc>https://darol0o5.github.io/Guide/chassis/super-skeeter/page/</loc>
-        <lastmod>2026-01-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://darol0o5.github.io/Guide/chassis/super-skeeter/page/"/>
-        <xhtml:link rel="alternate" hreflang="bg" href="https://darol0o5.github.io/Guide/bg/chassis/super-skeeter/page/"/>
-    </url>
-    <url>
-        <loc>https://darol0o5.github.io/Guide/chassis/terrence-k9/page/</loc>
-        <lastmod>2026-01-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://darol0o5.github.io/Guide/chassis/terrence-k9/page/"/>
-        <xhtml:link rel="alternate" hreflang="bg" href="https://darol0o5.github.io/Guide/bg/chassis/terrence-k9/page/"/>
     </url>
     <url>
         <loc>https://darol0o5.github.io/Guide/chassis/tg/tg-racing/page/</loc>
@@ -736,18 +736,25 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://darol0o5.github.io/Guide/chassis/atomic/drz/page/"/>
     </url>
     <url>
-        <loc>https://darol0o5.github.io/Guide/bg/chassis/atomic/drz-3/page/</loc>
-        <lastmod>2026-01-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="bg" href="https://darol0o5.github.io/Guide/bg/chassis/atomic/drz-3/page/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://darol0o5.github.io/Guide/chassis/atomic/drz-3/page/"/>
-    </url>
-    <url>
         <loc>https://darol0o5.github.io/Guide/bg/chassis/atomic/drz2/page/</loc>
         <lastmod>2026-01-14</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="bg" href="https://darol0o5.github.io/Guide/bg/chassis/atomic/drz2/page/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://darol0o5.github.io/Guide/chassis/atomic/drz2/page/"/>
+    </url>
+    <url>
+        <loc>https://darol0o5.github.io/Guide/bg/chassis/atomic/drz3mp/page/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bg" href="https://darol0o5.github.io/Guide/bg/chassis/atomic/drz3mp/page/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://darol0o5.github.io/Guide/chassis/atomic/drz3mp/page/"/>
+    </url>
+    <url>
+        <loc>https://darol0o5.github.io/Guide/bg/chassis/atomic/drz3ms/page/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bg" href="https://darol0o5.github.io/Guide/bg/chassis/atomic/drz3ms/page/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://darol0o5.github.io/Guide/chassis/atomic/drz3ms/page/"/>
     </url>
     <url>
         <loc>https://darol0o5.github.io/Guide/bg/chassis/bm-racing/bmrx/page/</loc>
@@ -1100,6 +1107,20 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://darol0o5.github.io/Guide/chassis/mj-rwd/page/"/>
     </url>
     <url>
+        <loc>https://darol0o5.github.io/Guide/bg/chassis/mj-rwd/custom/page/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bg" href="https://darol0o5.github.io/Guide/bg/chassis/mj-rwd/custom/page/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://darol0o5.github.io/Guide/chassis/mj-rwd/custom/page/"/>
+    </url>
+    <url>
+        <loc>https://darol0o5.github.io/Guide/bg/chassis/mj-rwd/thanos/page/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bg" href="https://darol0o5.github.io/Guide/bg/chassis/mj-rwd/thanos/page/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://darol0o5.github.io/Guide/chassis/mj-rwd/thanos/page/"/>
+    </url>
+    <url>
         <loc>https://darol0o5.github.io/Guide/bg/chassis/monk9/page/</loc>
         <lastmod>2026-01-14</lastmod>
         <changefreq>daily</changefreq>
@@ -1184,13 +1205,6 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://darol0o5.github.io/Guide/chassis/rw00/page/"/>
     </url>
     <url>
-        <loc>https://darol0o5.github.io/Guide/bg/chassis/rw00sr/page/</loc>
-        <lastmod>2026-01-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="bg" href="https://darol0o5.github.io/Guide/bg/chassis/rw00sr/page/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://darol0o5.github.io/Guide/chassis/rw00sr/page/"/>
-    </url>
-    <url>
         <loc>https://darol0o5.github.io/Guide/bg/chassis/seraphim/page/</loc>
         <lastmod>2026-01-14</lastmod>
         <changefreq>daily</changefreq>
@@ -1252,20 +1266,6 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="bg" href="https://darol0o5.github.io/Guide/bg/chassis/srikandi/page/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://darol0o5.github.io/Guide/chassis/srikandi/page/"/>
-    </url>
-    <url>
-        <loc>https://darol0o5.github.io/Guide/bg/chassis/super-skeeter/page/</loc>
-        <lastmod>2026-01-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="bg" href="https://darol0o5.github.io/Guide/bg/chassis/super-skeeter/page/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://darol0o5.github.io/Guide/chassis/super-skeeter/page/"/>
-    </url>
-    <url>
-        <loc>https://darol0o5.github.io/Guide/bg/chassis/terrence-k9/page/</loc>
-        <lastmod>2026-01-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="bg" href="https://darol0o5.github.io/Guide/bg/chassis/terrence-k9/page/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://darol0o5.github.io/Guide/chassis/terrence-k9/page/"/>
     </url>
     <url>
         <loc>https://darol0o5.github.io/Guide/bg/chassis/tg/tg-racing/page/</loc>
