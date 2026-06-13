@@ -34,8 +34,6 @@ theme:
   name: material
   custom_dir: overrides
   language: en
-  icon:
-    alternate: material/web
   features:
     - navigation.tabs
     - navigation.top
@@ -66,14 +64,4 @@ markdown_extensions:
 
 plugins:
   - search
-  - i18n:
-      docs_structure: suffix
-      languages:
-        - locale: en
-          default: true
-          name: English
-          build: true
-        - locale: bg
-          name: Български
-          build: true
-
+  
