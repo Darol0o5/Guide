@@ -1,0 +1,79 @@
+site_name: All in one small scale RWD Drift Guide
+site_url: https://darol0o5.github.io/Guide/
+
+extra:
+  homepage: https://darol0o5.github.io/Guide/
+  og_image: assets/og/default.jpg
+
+extra_meta:
+  - property: og:type
+    content: website
+  - property: og:image
+    content: https://darol0o5.github.io/Guide/assets/og/default.jpg
+  - property: og:image:width
+    content: "1200"
+  - property: og:image:height
+    content: "630"
+
+nav:
+  - Home: index.md
+  - History:
+     - How RWD came to small scale drifting: history/how-rwd-came-to-small-scale.md
+  - Terminology:
+     - Camber: terminology/camber.md
+  - Beginner:
+     - Basic Electronics: beginner/electronics.md
+     - Chassis Basics: beginner/chassis.md
+     - Alignment: beginner/alignment.md
+  - Chassis: chassis/catalogue.md
+  - Contribute: contribute/contribute.md
+     
+
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: en
+  icon:
+    alternate: material/web
+  features:
+    - navigation.tabs
+    - navigation.top
+    - toc.integrate
+    - content.tooltips
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+
+extra_css:
+    - stylesheets/extra.css
+
+
+markdown_extensions:
+    - admonition
+    - attr_list
+    - md_in_html
+    - toc:
+       permalink: true
+    - pymdownx.highlight
+    - pymdownx.superfences
+    - pymdownx.mark
+    - pymdownx.emoji:
+        emoji_index: !!python/name:material.extensions.emoji.twemoji
+        emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: bg
+          name: Български
+          build: true
+

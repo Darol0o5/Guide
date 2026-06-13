@@ -1,0 +1,41 @@
+site_name: All in one small scale RWD Drift Guide
+
+
+nav:
+  - Home: index.md
+  - History:
+     - How RWD came to small scale drifting: history/how-rwd-came-to-small-scale.md
+  - Terminology:
+     - Camber: terminology/camber.md
+  - Beginner:
+     - Basic Electronics: beginner/electronics.md
+     - Chassis Basics: beginner/chassis.md
+     - Alignment: beginner/alignment.md
+  - Chassis:
+     -TG SUPER FIRE: chassis/tg-super-fire/tg-super-fire.md
+     -ACXWA CD: chassis/acxwa-cd/acxwa-cd.md
+
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.top
+    - toc.integrate
+    - content.tooltips
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+
+
+markdown_extensions:
+    - admonition
+    - attr_list
+    - md_in_html
+    - toc:
+       permalink: true
+    - pymdownx.highlight
+    - pymdownx.superfences
+    - pymdownx.mark

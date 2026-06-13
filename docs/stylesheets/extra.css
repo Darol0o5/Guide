@@ -1,0 +1,47 @@
+.md-typeset .grid.cards > ul > li p {
+  text-align: center;
+}
+.md-typeset .grid.cards img {
+  width: 100% !important;
+  height: 200px;           /* можеш 140–200 според вкуса */
+  object-fit: contain;     /* ако искаш “crop” → сменяш на cover */
+  display: block;
+  margin: 0 auto;
+}
+.md-typeset .grid.cards a:hover img {
+  transform: scale(1.4);
+  transition: transform 0.2s ease-in-out;
+}
+
+/* Force cards grid columns (works across Material variations) */
+@media screen and (min-width: 1024px) {
+  .md-typeset .grid.cards,
+  .md-typeset .grid.cards > ul {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)) !important;
+    gap: 1rem !important;
+    align-items: stretch;
+  }
+}
+
+@media screen and (min-width: 600px) and (max-width: 1023px) {
+  .md-typeset .grid.cards,
+  .md-typeset .grid.cards > ul {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)) !important;
+    gap: 1rem !important;
+  }
+}
+
+@media screen and (max-width: 599px) {
+  .md-typeset .grid.cards,
+  .md-typeset .grid.cards > ul {
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 1rem !important;
+  }
+}
+
+.md-typeset .grid.cards > ul > li {
+  padding: 0.75rem;
+}
