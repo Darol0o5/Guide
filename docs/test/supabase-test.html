@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Supabase Test</title>
+</head>
+<body>
+
+<h1>Supabase Test</h1>
+
+<pre id="result">Loading...</pre>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+
+<script>
+
+const supabaseUrl = "https://krkiorqyqordwtbcolop.supabase.co";
+const supabaseKey = "sb_publishable_MetnC11vPQT3eKxjrmNOUQ_53QWymrI";
+
+const supabaseClient = window.supabase.createClient(
+    supabaseUrl,
+    supabaseKey
+);
+
+
+const pageSlug = "d24";
+const category = "difficulty";   
+
+
+async function loadRatings() {
+
+    const { data, error } = await supabaseClient
+        .from("ratings")
+        .select("score")
+        .eq("page_slug", pageSlug)
+        .eq("category", category);
+
+    if (error) {
+        document.getElementById("result").textContent =
+            "ERROR:\n" + JSON.stringify(error, null, 2);
+        return;
+    }
+
+    const votes = data.length;
+
+    const average =
+        data.reduce((sum, row) => sum + row.score, 0) / votes;
+
+    document.getElementById("result").textContent =
+        `QC Rating: ${average.toFixed(1)} / 5\nVotes: ${votes}`;
+}
+
+loadRatings();
+
+</script>
+
+</body>
+</html>

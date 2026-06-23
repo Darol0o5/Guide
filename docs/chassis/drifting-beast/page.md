@@ -1,8 +1,8 @@
-# Chassis
+# Drifting Beast
 
 
 
-![name](pic.jpg){ width="500" }
+![DB](db.jpg){ width="500" }
 
 
 
@@ -10,21 +10,21 @@
 
 
 
-- **Developed by:** *brand/author*
+- **Developed by:** *Drifting Beast*
 
-- **Release:** *Month YYYY*
+- **Release:** *August 2022*
 
-- **Origin:** *Country*
+- **Origin:** *China*
 
-- **Status:** *Available/Pre-Order/Discontinued/Unknown*
+- **Status:** *Discontinued*
 
-- **Production:** *Batch/Pre-order/Mass/Prototype*
+- **Production:** *Batch*
 
 - **Scale:** *1/24*
 
-- **Body mounting:** *Magnet mounting/MINI-Z*
+- **Body mounting:** *Magnet mounting*
 
-- **Materials:** *materials*
+- **Materials:** *Nylon, Steel/Aluminum*
 
 
 
@@ -38,53 +38,53 @@
 
 ### At-a-glance
 
-- **Wheelbase:** ✅ ❌
+- **Wheelbase:** ✅
 
-- **Camber:** Front ✅ ❌ / Rear ✅ ❌
+- **Camber:** Front ✅ / Rear ❌ (optional upper linkage)
 
-- **Toe:** Front ✅ ❌ / Rear ✅ ❌
+- **Toe:** Front ✅ / Rear ❌
 
-- **Caster:** ✅ ❌
+- **Caster:** ✅
 
-- **Ackermann quick adjustment:** ✅ ❌
+- **Ackermann quick adjustment:** ❌
 
-- **Ride height:** Front ✅ ❌ / Rear ✅ ❌
+- **Ride height:** Front ✅ / Rear ✅
 
-- **Track width:** Front ✅ ❌ / Rear ✅ ❌
+- **Track width:** Front ✅ / Rear ❌ (✅ with upgrade parts)
 
-- **Front shocks:** preload ✅ ❌ / angle ✅ ❌
+- **Front shocks:** preload ✅ / angle ✅ 
 
-- **Rear shocks:** preload ✅ ❌ / angle ✅ ❌
+- **Rear shocks:** preload ✅ / angle ✅ 
 
-- **Active systems:** ❌ ✅
+- **Active systems:** ❌
 
-- **Motor position:** mid ❌ ✅ / high ✅ ❌ / rear ✅ ❌
+- **Motor position:** mid ❌ / high ✅ / rear ❌
 
-- **Servo position:** ✅ ❌
+- **Servo position:** ✅
 
-- **Pinion-Spur distance:** ✅ ❌
+- **Pinion-Spur distance:** ✅
 
-- **Front knuckle KPI hinge point:** ❌ ✅
+- **Front knuckle KPI hinge point:** ✅
 
-- **Front knuckle steering linkage hinge point:** ❌ ✅
+- **Front knuckle steering linkage hinge point:** ❌
 
-- **Steering rack linkage hinge point:** ✅ ❌
+- **Steering rack linkage hinge point:** ✅ 
 
 
 
 ### Details
 
-- **Wheelbase adjustment method:** *slider / steps*
+- **Wheelbase adjustment method:** *steps*
 
-- **Wheelbase range:** *xx–yyy mm*
+- **Wheelbase range:** *98–120 mm*
 
-- **Track width range:** *xx–yy mm*
+- **Track width range:** *??–?? mm*
 
-- **Caster adjustment:** *stepless/steps/shims/static*
+- **Caster adjustment:** *stepless(not confirmed)*
 
-- **Ackermann adjustment:** *stepless/steps/static/shims*
+- **Ackermann adjustment:** *steps*
 
-- **Rear toe behavior:** *adjustable/static/unknown/dynamic*
+- **Rear toe behavior:** *static*
 
 
 
@@ -94,15 +94,15 @@
 
 ## Drivetrain
 
-- **Gearbox type:** *gear-driven / belt-driven (mixed gears) / (v-belt)*
+- **Gearbox type:** *gear-driven / belt-driven (v-belt) mix*
 
-- **Motor orientation:** *transverse/ longitudinal*
+- **Motor orientation:** *transverse*
 
-- **Forces:** *pro-torque / anti-torque*
+- **Forces:** *pro-torque*
 
-- **Reversible:** ✅ ❌
+- **Reversible:** ❌
 
-- **Differential:** *spool / Open / Ball / LSD*
+- **Differential:** *spool*
 
 
 
@@ -112,11 +112,9 @@
 
 ## Steering
 
-- **Steering method:** *direct / pivoted*
+- **Steering method:** *direct*
 
-- **Steering system:** *bellcrank / wiper / slide rack*
-
-- **Servo position:** *bulkhead mounted / upper deck / lower deck*
+- **Servo position:** *upper deck*
 
 
 
@@ -126,9 +124,9 @@
 
 ## Suspension
 
-- **Front:** *double wishbone, independent, 2 shocks*
+- **Front:** *double wishbone, independent, cantilever-arms 2 shocks*
 
-- **Rear:** *multi-link, independent, 2 shocks*
+- **Rear:** *articulated rear axle with flex-bridge, 2 shocks*
 
 - **Shocks type:** *friction shocks*
 
@@ -136,17 +134,15 @@
 
 ## Notes
 
+The rear suspension uses a unique articulated axle design mounted through a central pivot and flex-bridge assembly. While not fully independent, the system allows limited axle articulation and chassis roll control.
+\
+\
+*Revision*
+
+Following the release of several optional upgrades, an updated kit version was introduced in late 2023. The revised version included many anodized aluminum parts, such as the servo horn, suspension arms, steering knuckles and differential.  
 
 
-Available upgrade parts.
-
-
-
-Stuff
-
-
-
-![Photo2](pic2.jpg){ width="500" }
+![DBN](dbn.jpg){ width="500" }
 
 
 

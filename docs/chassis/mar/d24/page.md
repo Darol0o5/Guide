@@ -1,8 +1,8 @@
-# Chassis
+# MA Racing D24
 
 
 
-![name](pic.jpg){ width="500" }
+![MAR D24](d24.jpg){ width="500" }
 
 
 
@@ -10,21 +10,21 @@
 
 
 
-- **Developed by:** *brand/author*
+- **Developed by:** *MA Racing*
 
-- **Release:** *Month YYYY*
+- **Release:** *January 2024*
 
-- **Origin:** *Country*
+- **Origin:** *China*
 
-- **Status:** *Available/Pre-Order/Discontinued/Unknown*
+- **Status:** *Discontinued*
 
-- **Production:** *Batch/Pre-order/Mass/Prototype*
+- **Production:** *Batch*
 
 - **Scale:** *1/24*
 
-- **Body mounting:** *Magnet mounting/MINI-Z*
+- **Body mounting:** *Magnet mounting*
 
-- **Materials:** *materials*
+- **Materials:** *Aluminum, carbon fiber, injection molded plastic*
 
 
 
@@ -38,53 +38,55 @@
 
 ### At-a-glance
 
-- **Wheelbase:** ✅ ❌
+- **Wheelbase:** ✅
 
-- **Camber:** Front ✅ ❌ / Rear ✅ ❌
+- **Camber:** Front ✅ / Rear ✅
 
-- **Toe:** Front ✅ ❌ / Rear ✅ ❌
+- **Camber gain:** Front ✅ / Rear ✅
 
-- **Caster:** ✅ ❌
+- **Toe:** Front ✅ / Rear ❌ (2° toe-in)
 
-- **Ackermann quick adjustment:** ✅ ❌
+- **Caster:** ✅
 
-- **Ride height:** Front ✅ ❌ / Rear ✅ ❌
+- **Ackermann quick adjustment:** ✅
 
-- **Track width:** Front ✅ ❌ / Rear ✅ ❌
+- **Ride height:** Front ✅ / Rear ✅
 
-- **Front shocks:** preload ✅ ❌ / angle ✅ ❌
+- **Track width:** Front ✅ / Rear ✅
 
-- **Rear shocks:** preload ✅ ❌ / angle ✅ ❌
+- **Front shocks:** preload ✅ / angle ✅
 
-- **Active systems:** ❌ ✅
+- **Rear shocks:** preload ✅ / angle ✅
 
-- **Motor position:** mid ❌ ✅ / high ✅ ❌ / rear ✅ ❌
+- **Active systems:** ❌
 
-- **Servo position:** ✅ ❌
+- **Motor position:** mid ✅ / high ✅ / rear ✅
 
-- **Pinion-Spur distance:** ✅ ❌
+- **Servo inclination:** ❌
 
-- **Front knuckle KPI hinge point:** ❌ ✅
+- **Belt tension/Pinion size:** ✅
 
-- **Front knuckle steering linkage hinge point:** ❌ ✅
+- **Front KPI adjustment:** ❌
 
-- **Steering rack linkage hinge point:** ✅ ❌
+- **Steering linkage position on knuckle:** ✅
+
+- **Steering rack linkage position:** ❌
 
 
 
 ### Details
 
-- **Wheelbase adjustment method:** *slider / steps*
+- **Wheelbase adjustment method:** *slider*
 
-- **Wheelbase range:** *xx–yyy mm*
+- **Wheelbase range:** *98–120 mm*
 
-- **Track width range:** *xx–yy mm*
+- **Track width range:** *78-90+ mm*
 
-- **Caster adjustment:** *stepless/steps/shims/static*
+- **Caster adjustment:** *shims*
 
-- **Ackermann adjustment:** *stepless/steps/static/shims*
+- **Ackermann adjustment:** *stepless*
 
-- **Rear toe behavior:** *adjustable/static/unknown/dynamic*
+- **Rear toe behavior:** *static*
 
 
 
@@ -94,15 +96,15 @@
 
 ## Drivetrain
 
-- **Gearbox type:** *gear-driven / belt-driven (mixed gears) / (v-belt)*
+- **Gearbox type:** *belt-driven with v-belt*
 
-- **Motor orientation:** *transverse/ longitudinal*
+- **Motor orientation:** *transverse*
 
-- **Forces:** *pro-torque / anti-torque*
+- **Forces:** *anti-torque*
 
-- **Reversible:** ✅ ❌
+- **Reversible:** ✅
 
-- **Differential:** *spool / Open / Ball / LSD*
+- **Differential:** *spool*
 
 
 
@@ -112,11 +114,9 @@
 
 ## Steering
 
-- **Steering method:** *direct / pivoted*
+- **Steering method:** *direct*
 
-- **Steering system:** *bellcrank / wiper / slide rack*
-
-- **Servo position:** *bulkhead mounted / upper deck / lower deck*
+- **Servo position:** *lower deck*
 
 
 
@@ -128,10 +128,14 @@
 
 - **Front:** *double wishbone, independent, 2 shocks*
 
-- **Rear:** *multi-link, independent, 2 shocks*
+- **Rear:** *double wishbone, independent, 2 shocks*
 
 - **Shocks type:** *friction shocks*
 
+
+## Community ratings
+
+<div class="chassis-rating" data-slug="d24"></div>
 
 
 ## Notes

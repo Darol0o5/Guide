@@ -1,8 +1,8 @@
-# Chassis
+# LS Studio LSD
 
 
 
-![name](pic.jpg){ width="500" }
+![LSD](lsd.jpg){ width="500" }
 
 
 
@@ -10,21 +10,21 @@
 
 
 
-- **Developed by:** *brand/author*
+- **Developed by:** *LS Studio*
 
-- **Release:** *Month YYYY*
+- **Release:** *January 2023*
 
-- **Origin:** *Country*
+- **Origin:** *China*
 
-- **Status:** *Available/Pre-Order/Discontinued/Unknown*
+- **Status:** *Discontinued*
 
-- **Production:** *Batch/Pre-order/Mass/Prototype*
+- **Production:** *Batch*
 
-- **Scale:** *1/24*
+- **Scale:** *1/27*
 
-- **Body mounting:** *Magnet mounting/MINI-Z*
+- **Body mounting:** *MINI-Z*
 
-- **Materials:** *materials*
+- **Materials:** *Aluminum, carbon fiber, injection molded plastic*
 
 
 
@@ -38,53 +38,53 @@
 
 ### At-a-glance
 
-- **Wheelbase:** ✅ ❌
+- **Wheelbase:** ✅
 
-- **Camber:** Front ✅ ❌ / Rear ✅ ❌
+- **Camber:** Front ✅ / Rear ✅
 
-- **Toe:** Front ✅ ❌ / Rear ✅ ❌
+- **Toe:** Front ✅ / Rear ✅
 
-- **Caster:** ✅ ❌
+- **Caster:** ✅
 
-- **Ackermann quick adjustment:** ✅ ❌
+- **Ackermann quick adjustment:** ✅
 
-- **Ride height:** Front ✅ ❌ / Rear ✅ ❌
+- **Ride height:** Front ✅ / Rear ✅
 
-- **Track width:** Front ✅ ❌ / Rear ✅ ❌
+- **Track width:** Front ✅ / Rear ✅
 
-- **Front shocks:** preload ✅ ❌ / angle ✅ ❌
+- **Front shocks:** preload ✅ / angle ✅
 
-- **Rear shocks:** preload ✅ ❌ / angle ✅ ❌
+- **Rear shocks:** preload ✅ / angle ✅
 
-- **Active systems:** ❌ ✅
+- **Active systems:** ✅
 
-- **Motor position:** mid ❌ ✅ / high ✅ ❌ / rear ✅ ❌
+- **Motor position:** mid ✅ / high ✅ / rear ✅
 
-- **Servo position:** ✅ ❌
+- **Servo position:** ✅
 
-- **Pinion-Spur distance:** ✅ ❌
+- **Pinion-Spur distance:** ✅
 
-- **Front knuckle KPI hinge point:** ❌ ✅
+- **Front knuckle KPI hinge point:** ❌
 
-- **Front knuckle steering linkage hinge point:** ❌ ✅
+- **Front knuckle steering linkage hinge point:** ❌
 
-- **Steering rack linkage hinge point:** ✅ ❌
+- **Steering rack linkage hinge point:** ✅
 
 
 
 ### Details
 
-- **Wheelbase adjustment method:** *slider / steps*
+- **Wheelbase adjustment method:** *slider*
 
-- **Wheelbase range:** *xx–yyy mm*
+- **Wheelbase range:** *86–110 mm*
 
-- **Track width range:** *xx–yy mm*
+- **Track width range:** *??–?? mm*
 
-- **Caster adjustment:** *stepless/steps/shims/static*
+- **Caster adjustment:** *stepless*
 
-- **Ackermann adjustment:** *stepless/steps/static/shims*
+- **Ackermann adjustment:** *stepless*
 
-- **Rear toe behavior:** *adjustable/static/unknown/dynamic*
+- **Rear toe behavior:** *adjustable dynamic*
 
 
 
@@ -94,15 +94,15 @@
 
 ## Drivetrain
 
-- **Gearbox type:** *gear-driven / belt-driven (mixed gears) / (v-belt)*
+- **Gearbox type:** *gear-driven*
 
-- **Motor orientation:** *transverse/ longitudinal*
+- **Motor orientation:** *transverse*
 
-- **Forces:** *pro-torque / anti-torque*
+- **Forces:** *anti-torque*
 
-- **Reversible:** ✅ ❌
+- **Reversible:** ✅
 
-- **Differential:** *spool / Open / Ball / LSD*
+- **Differential:** *spool / ball(optional)*
 
 
 
@@ -112,11 +112,11 @@
 
 ## Steering
 
-- **Steering method:** *direct / pivoted*
+- **Steering method:** *pivoted*
 
-- **Steering system:** *bellcrank / wiper / slide rack*
+- **Steering system:** *bellcrank*
 
-- **Servo position:** *bulkhead mounted / upper deck / lower deck*
+- **Servo position:** *lower deck*
 
 
 
@@ -136,19 +136,7 @@
 
 ## Notes
 
-
-
-Available upgrade parts.
-
-
-
-Stuff
-
-
-
-![Photo2](pic2.jpg){ width="500" }
-
-
+LS Studios quickly gained a reputation for exceptional manufacturing quality, precision fitment, and visual appeal. As the brand's first product, the LSD platform helped establish LS Studios as a serious competitor in the premium segment of the small-scale drift market.
 
 ---
 

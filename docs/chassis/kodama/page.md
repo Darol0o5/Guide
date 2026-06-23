@@ -1,8 +1,8 @@
-# Chassis
+# Onisiki Kodama
 
 
 
-![name](pic.jpg){ width="500" }
+![Kodama](kodama.jpg){ width="500" }
 
 
 
@@ -10,21 +10,21 @@
 
 
 
-- **Developed by:** *brand/author*
+- **Developed by:** *Onisiki*
 
-- **Release:** *Month YYYY*
+- **Release:** *January 2024*
 
-- **Origin:** *Country*
+- **Origin:** *Hong Kong*
 
-- **Status:** *Available/Pre-Order/Discontinued/Unknown*
+- **Status:** *Discontinued*
 
-- **Production:** *Batch/Pre-order/Mass/Prototype*
+- **Production:** *Batch, limited 1000pcs*
 
-- **Scale:** *1/24*
+- **Scale:** *1/24-1/28*
 
 - **Body mounting:** *Magnet mounting/MINI-Z*
 
-- **Materials:** *materials*
+- **Materials:** *Aluminum, carbon fiber*
 
 
 
@@ -38,53 +38,53 @@
 
 ### At-a-glance
 
-- **Wheelbase:** ✅ ❌
+- **Wheelbase:** ✅
 
-- **Camber:** Front ✅ ❌ / Rear ✅ ❌
+- **Camber:** Front ✅ / Rear ✅
 
-- **Toe:** Front ✅ ❌ / Rear ✅ ❌
+- **Toe:** Front ✅ / Rear ❌(not confirmed)
 
-- **Caster:** ✅ ❌
+- **Caster:** ✅
 
-- **Ackermann quick adjustment:** ✅ ❌
+- **Ackermann quick adjustment:** ✅
 
-- **Ride height:** Front ✅ ❌ / Rear ✅ ❌
+- **Ride height:** Front ✅ / Rear ✅ 
 
-- **Track width:** Front ✅ ❌ / Rear ✅ ❌
+- **Track width:** Front ✅ / Rear ✅ 
 
-- **Front shocks:** preload ✅ ❌ / angle ✅ ❌
+- **Front shocks:** preload ✅  / angle ❌
 
-- **Rear shocks:** preload ✅ ❌ / angle ✅ ❌
+- **Rear shocks:** preload ✅ / angle ✅
 
-- **Active systems:** ❌ ✅
+- **Active systems:** ❌
 
-- **Motor position:** mid ❌ ✅ / high ✅ ❌ / rear ✅ ❌
+- **Motor position:** mid-high longitudinal
 
-- **Servo position:** ✅ ❌
+- **Servo position:** ✅
 
-- **Pinion-Spur distance:** ✅ ❌
+- **Pinion-Spur distance:** ✅
 
-- **Front knuckle KPI hinge point:** ❌ ✅
+- **Front knuckle KPI hinge point:** ❌
 
-- **Front knuckle steering linkage hinge point:** ❌ ✅
+- **Front knuckle steering linkage hinge point:** ❌
 
-- **Steering rack linkage hinge point:** ✅ ❌
+- **Steering rack linkage hinge point:** ❌
 
 
 
 ### Details
 
-- **Wheelbase adjustment method:** *slider / steps*
+- **Wheelbase adjustment method:** *slider & steps*
 
-- **Wheelbase range:** *xx–yyy mm*
+- **Wheelbase range:** *90-?? mm*
 
-- **Track width range:** *xx–yy mm*
+- **Track width range:** *?? mm*
 
-- **Caster adjustment:** *stepless/steps/shims/static*
+- **Caster adjustment:** *shims*
 
-- **Ackermann adjustment:** *stepless/steps/static/shims*
+- **Ackermann adjustment:** *stepless*
 
-- **Rear toe behavior:** *adjustable/static/unknown/dynamic*
+- **Rear toe behavior:** *static*
 
 
 
@@ -94,15 +94,15 @@
 
 ## Drivetrain
 
-- **Gearbox type:** *gear-driven / belt-driven (mixed gears) / (v-belt)*
+- **Gearbox type:** *gear-driven*
 
-- **Motor orientation:** *transverse/ longitudinal*
+- **Motor orientation:** *longitudinal*
 
-- **Forces:** *pro-torque / anti-torque*
+- **Forces:** *torque-twist*
 
-- **Reversible:** ✅ ❌
+- **Reversible:** ❌
 
-- **Differential:** *spool / Open / Ball / LSD*
+- **Differential:** *spool*
 
 
 
@@ -112,11 +112,9 @@
 
 ## Steering
 
-- **Steering method:** *direct / pivoted*
+- **Steering method:** *direct*
 
-- **Steering system:** *bellcrank / wiper / slide rack*
-
-- **Servo position:** *bulkhead mounted / upper deck / lower deck*
+- **Servo position:** *upper deck*
 
 
 
@@ -126,7 +124,7 @@
 
 ## Suspension
 
-- **Front:** *double wishbone, independent, 2 shocks*
+- **Front:** *double wishbone, independent, 2 shocks or monoshock-coupled(for narrow track widths)*
 
 - **Rear:** *multi-link, independent, 2 shocks*
 
@@ -136,17 +134,13 @@
 
 ## Notes
 
+Onisiki Kodama shares many similarities with the [BMR-X PRO](../bm-racing/bmrx-pro/page.md).
 
+The gearbox appears to be identical. However, Kodama uses a direct drive steering system with stepless Ackermann adjustment, trading off the stepless caster adjustment found on the BMR-X PRO. Instead, caster is adjusted using shims.
 
-Available upgrade parts.
+Kodama's battery is positioned behind the gearbox, placing more weight toward the rear and helping generate rear grip.
 
-
-
-Stuff
-
-
-
-![Photo2](pic2.jpg){ width="500" }
+For narrower track width setups, Kodama can switch from a dual front shock layout to a front monoshock configuration. This clears additional space around the outer front wheel, helping preserve steering angle without binding.
 
 
 

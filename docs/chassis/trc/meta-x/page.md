@@ -1,8 +1,8 @@
-# Chassis
+# TRC Meta X
 
 
 
-![name](pic.jpg){ width="500" }
+![Meta X](metax.jpg){ width="500" }
 
 
 
@@ -10,21 +10,21 @@
 
 
 
-- **Developed by:** *brand/author*
+- **Developed by:** *Tommy RC*
 
-- **Release:** *Month YYYY*
+- **Release:** *July 2024*
 
-- **Origin:** *Country*
+- **Origin:** *China*
 
-- **Status:** *Available/Pre-Order/Discontinued/Unknown*
+- **Status:** *Discontinued*
 
-- **Production:** *Batch/Pre-order/Mass/Prototype*
+- **Production:** *Batch*
 
 - **Scale:** *1/24*
 
-- **Body mounting:** *Magnet mounting/MINI-Z*
+- **Body mounting:** *Magnet mounting*
 
-- **Materials:** *materials*
+- **Materials:** *Aluminum, carbon fiber*
 
 
 
@@ -38,53 +38,53 @@
 
 ### At-a-glance
 
-- **Wheelbase:** ✅ ❌
+- **Wheelbase:** ✅
 
-- **Camber:** Front ✅ ❌ / Rear ✅ ❌
+- **Camber:** Front ✅ / Rear ✅
 
-- **Toe:** Front ✅ ❌ / Rear ✅ ❌
+- **Toe:** Front ✅ / Rear ❌ (✅ 0° or 4° choice with option part)
 
-- **Caster:** ✅ ❌
+- **Caster:** ✅
 
-- **Ackermann quick adjustment:** ✅ ❌
+- **Ackermann quick adjustment:** ✅
 
-- **Ride height:** Front ✅ ❌ / Rear ✅ ❌
+- **Ride height:** Front ✅ / Rear ✅
 
-- **Track width:** Front ✅ ❌ / Rear ✅ ❌
+- **Track width:** Front ✅ / Rear ✅ (may require longer cvd dogbones)
 
-- **Front shocks:** preload ✅ ❌ / angle ✅ ❌
+- **Front shocks:** preload ✅ / angle ✅
 
-- **Rear shocks:** preload ✅ ❌ / angle ✅ ❌
+- **Rear shocks:** preload ✅ / angle ✅
 
-- **Active systems:** ❌ ✅
+- **Active systems:** ❌
 
-- **Motor position:** mid ❌ ✅ / high ✅ ❌ / rear ✅ ❌
+- **Motor position:** mid ✅ / high ✅ / rear ✅
 
-- **Servo position:** ✅ ❌
+- **Servo position:** ✅
 
-- **Pinion-Spur distance:** ✅ ❌
+- **Pinion-Spur distance:** ✅
 
-- **Front knuckle KPI hinge point:** ❌ ✅
+- **Front knuckle KPI hinge point:** ❌
 
-- **Front knuckle steering linkage hinge point:** ❌ ✅
+- **Front knuckle steering linkage hinge point:** ❌
 
-- **Steering rack linkage hinge point:** ✅ ❌
+- **Steering rack linkage hinge point:** ❌ (not confirmed)
 
 
 
 ### Details
 
-- **Wheelbase adjustment method:** *slider / steps*
+- **Wheelbase adjustment method:** *slider & steps*
 
-- **Wheelbase range:** *xx–yyy mm*
+- **Wheelbase range:** *94–120 mm*
 
-- **Track width range:** *xx–yy mm*
+- **Track width range:** *72–90 mm*
 
-- **Caster adjustment:** *stepless/steps/shims/static*
+- **Caster adjustment:** *shims*
 
-- **Ackermann adjustment:** *stepless/steps/static/shims*
+- **Ackermann adjustment:** *stepless*
 
-- **Rear toe behavior:** *adjustable/static/unknown/dynamic*
+- **Rear toe behavior:** *static*
 
 
 
@@ -94,15 +94,15 @@
 
 ## Drivetrain
 
-- **Gearbox type:** *gear-driven / belt-driven (mixed gears) / (v-belt)*
+- **Gearbox type:** *gear-driven*
 
-- **Motor orientation:** *transverse/ longitudinal*
+- **Motor orientation:** *transverse*
 
-- **Forces:** *pro-torque / anti-torque*
+- **Forces:** *anti-torque*
 
-- **Reversible:** ✅ ❌
+- **Reversible:** ✅
 
-- **Differential:** *spool / Open / Ball / LSD*
+- **Differential:** *spool*
 
 
 
@@ -112,9 +112,7 @@
 
 ## Steering
 
-- **Steering method:** *direct / pivoted*
-
-- **Steering system:** *bellcrank / wiper / slide rack*
+- **Steering method:** *direct*
 
 - **Servo position:** *bulkhead mounted / upper deck / lower deck*
 
@@ -136,14 +134,34 @@
 
 ## Notes
 
-**MetaX PRO** June 2024
+
+One of the design focuses was to make the car lightweight.
+
+An interesting feature is the spring-loaded servo mount, which allows precise Ackermann adjustment via a screw.
+
+The optional floating gearbox is another interesting feature, which allows the motor pinion and spur gear mesh to self-adjust.
+
+According to Yuan Hao, Tommy RC noted that plastic shocks are smoother than the metal ones, so if you want to upgrade, think of it as a visual upgrade rather than a performance upgrade.
+
+I will also quote Yuan Hao: "The main gear is made from PEEK—a high-end material that’s lightweight, durable, and self-lubricating. Fun fact: PEEK is way more expensive than aluminum, so skip the black aluminum main gear—it’s not worth the downgrade! The PEEK gear runs so quietly, it’s almost on par with belt-driven chassis."
+
+Meta X was available in Pro and Max versions. A very limited Pink Edition, reportedly produced in fewer than 20 units, was released exclusively during MRDC events in China.
+
+Some customers reported QC-related issues and felt that certain design choices were made with cost reduction in mind. However, most of these concerns did not appear to affect the car's performance. 
+
+**MetaX PRO** 
+
+![Pro](metax.jpg){ width="500" }
 
 **MetaX MAX**
 
+![Xmax](xmax.jpg){ width="500" }
+
+**Meta X Pink**
+
+![Pink](metaxpink.jpg){ width="500" }
 
 
-
-![Photo2](pic2.jpg){ width="500" }
 
 
 
@@ -165,5 +183,5 @@ Have extra info or experience with this chassis? [Contribute here](../../contrib
 
 ## Sources / credits / reviews
 
-
+Yuan Hao, TC Emre Yurdakul, Tommy RC, Jack Nares.
 

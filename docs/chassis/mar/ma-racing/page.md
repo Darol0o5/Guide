@@ -137,11 +137,13 @@
 One catchy teaser of the bearing mounted arms, promoting an easy way to get smoothly working suspension, the anticipation of the chassis was already high.  
 
 **MA Racing V1** released in December 2021 in China.
+
 ![MARv1](ma-v1.jpg){ width="500" }
 
 
 
 **MA Racing v1.1 upgrade** was the first step of the platform's evolution with upgraded spur gear and branded aluminum upper deck plate.
+
 ![MARv1](ma-v1.1.jpg){ width="500" }
 
 High precision, top-notch quality aluminum upgrades were being thrown at the already good base in short period.
@@ -152,10 +154,12 @@ This rapid developement led to v1.2 in february, and v1.3 in may 2022.
 
 ![MARv1](ma-v1.3.jpg){ width="500" } 
 
-**V1.4** Special American version dropped in July 2022.  
+**V1.4** Special American version dropped in July 2022. 
+
 ![MARv1](ma-v1.4.jpg){ width="500" }
 
 The final form of the evolution, **"MA Racing V1.5"** arrived in october 2022 and was considered by many to be the highest-quality chassis of its the time, rising the bar for the competitors across the small-scale drift scene.
+
 ![MARv1](ma-v1.5.jpg){ width="500" }
 
 ---
@@ -176,5 +180,5 @@ Have extra info or experience with this chassis? [Contribute here](../../contrib
 
 ## Sources / credits / reviews
 
-
+Thanks to TC Emre Yurdakul and Nares Jack Vacharaksa for providing valuable info about MA's history.
 

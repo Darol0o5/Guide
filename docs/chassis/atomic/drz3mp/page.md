@@ -1,8 +1,8 @@
-# Chassis
+# Atomic DRZ3-MP
 
 
 
-![name](pic.jpg){ width="500" }
+![DRZ3MP](drz3mp.jpg){ width="500" }
 
 
 
@@ -10,21 +10,21 @@
 
 
 
-- **Developed by:** *brand/author*
+- **Developed by:** *RC Atomic*
 
-- **Release:** *Month YYYY*
+- **Release:** *December 2022*
 
-- **Origin:** *Country*
+- **Origin:** *Hong Kong*
 
-- **Status:** *Available/Pre-Order/Discontinued/Unknown*
+- **Status:** *Available*
 
-- **Production:** *Batch/Pre-order/Mass/Prototype*
+- **Production:** *Mass*
 
-- **Scale:** *1/24*
+- **Scale:** *1/24-1/28*
 
-- **Body mounting:** *Magnet mounting/MINI-Z*
+- **Body mounting:** *Magnet mounting*
 
-- **Materials:** *materials*
+- **Materials:** *Aluminum, carbon fiber, injection molded plastic*
 
 
 
@@ -38,37 +38,37 @@
 
 ### At-a-glance
 
-- **Wheelbase:** ✅ ❌
+- **Wheelbase:** ✅
 
-- **Camber:** Front ✅ ❌ / Rear ✅ ❌
+- **Camber:** Front ✅ / Rear ✅
 
-- **Toe:** Front ✅ ❌ / Rear ✅ ❌
+- **Toe:** Front ✅ / Rear ✅
 
-- **Caster:** ✅ ❌
+- **Caster:** ✅
 
-- **Ackermann quick adjustment:** ✅ ❌
+- **Ackermann quick adjustment:** ✅
 
-- **Ride height:** Front ✅ ❌ / Rear ✅ ❌
+- **Ride height:** Front ✅ / Rear ✅
 
-- **Track width:** Front ✅ ❌ / Rear ✅ ❌
+- **Track width:** Front ✅ / Rear ❌ (✅ Optional parts)
 
-- **Front shocks:** preload ✅ ❌ / angle ✅ ❌
+- **Front shocks:** preload ✅ / angle ❌
 
-- **Rear shocks:** preload ✅ ❌ / angle ✅ ❌
+- **Rear shocks:** preload ✅ / angle ✅
 
-- **Active systems:** ❌ ✅
+- **Active systems:** ✅
 
-- **Motor position:** mid ❌ ✅ / high ✅ ❌ / rear ✅ ❌
+- **Motor position:** mid ✅ / high ✅ / rear ✅
 
-- **Servo position:** ✅ ❌
+- **Servo position:** ✅
 
-- **Pinion-Spur distance:** ✅ ❌
+- **Pinion-Spur distance:** ✅
 
-- **Front knuckle KPI hinge point:** ❌ ✅
+- **Front knuckle KPI hinge point:** ❌
 
-- **Front knuckle steering linkage hinge point:** ❌ ✅
+- **Front knuckle steering linkage hinge point:** ❌
 
-- **Steering rack linkage hinge point:** ✅ ❌
+- **Steering rack linkage hinge point:** ✅
 
 
 
@@ -76,15 +76,15 @@
 
 - **Wheelbase adjustment method:** *slider / steps*
 
-- **Wheelbase range:** *xx–yyy mm*
+- **Wheelbase range:** *90–130 mm*
 
 - **Track width range:** *xx–yy mm*
 
-- **Caster adjustment:** *stepless/steps/shims/static*
+- **Caster adjustment:** *stepless*
 
-- **Ackermann adjustment:** *stepless/steps/static/shims*
+- **Ackermann adjustment:** *stepless*
 
-- **Rear toe behavior:** *adjustable/static/unknown/dynamic*
+- **Rear toe behavior:** *static*
 
 
 
@@ -94,15 +94,15 @@
 
 ## Drivetrain
 
-- **Gearbox type:** *gear-driven / belt-driven (mixed gears) / (v-belt)*
+- **Gearbox type:** *gear-driven*
 
-- **Motor orientation:** *transverse/ longitudinal*
+- **Motor orientation:** *transverse*
 
-- **Forces:** *pro-torque / anti-torque*
+- **Forces:** *anti-torque*
 
-- **Reversible:** ✅ ❌
+- **Reversible:** ✅
 
-- **Differential:** *spool / Open / Ball / LSD*
+- **Differential:** *Ball*
 
 
 
@@ -112,11 +112,11 @@
 
 ## Steering
 
-- **Steering method:** *direct / pivoted*
+- **Steering method:** *pivoted / direct(Optional)*
 
-- **Steering system:** *bellcrank / wiper / slide rack*
+- **Steering system:** *bellcrank / direct drive*
 
-- **Servo position:** *bulkhead mounted / upper deck / lower deck*
+- **Servo position:** *lower deck with bulkhead fixation*
 
 
 
@@ -126,9 +126,9 @@
 
 ## Suspension
 
-- **Front:** *double wishbone, independent, 2 shocks*
+- **Front:** *McPherson strut, 2 shocks. Upper arms are coupled by body roll system, which can be switched off using grub screws*
 
-- **Rear:** *multi-link, independent, 2 shocks*
+- **Rear:** *Double wishbone, independent, 2 shocks*
 
 - **Shocks type:** *friction shocks*
 
@@ -136,17 +136,13 @@
 
 ## Notes
 
+Direct drive steering option, with crank only compatible with servos with 3.5 to 3.9mm spline. A few examples from GT55racing.com: 
+-Atomic 1885
+-Atomic 1820 series
+-Atomic BZ-UP017 series
+-AGFRC A06CLS series
 
-
-Available upgrade parts.
-
-
-
-Stuff
-
-
-
-![Photo2](pic2.jpg){ width="500" }
+![DRZ3MP](ddop.jpg){ width="500" }
 
 
 

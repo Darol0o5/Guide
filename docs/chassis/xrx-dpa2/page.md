@@ -1,8 +1,8 @@
-# Chassis
+# XRX DPA2
 
 
 
-![name](pic.jpg){ width="500" }
+![DPA2](dpa2.jpg){ width="500" }
 
 
 
@@ -10,21 +10,21 @@
 
 
 
-- **Developed by:** *brand/author*
+- **Developed by:** *Techstorm Racing*
 
-- **Release:** *Month YYYY*
+- **Release:** *October 2022*
 
-- **Origin:** *Country*
+- **Origin:** *Hong Kong*
 
-- **Status:** *Available/Pre-Order/Discontinued/Unknown*
+- **Status:** *Discontinued*
 
-- **Production:** *Batch/Pre-order/Mass/Prototype*
+- **Production:** *Batch*
 
-- **Scale:** *1/24*
+- **Scale:** *1/24-1/28*
 
 - **Body mounting:** *Magnet mounting/MINI-Z*
 
-- **Materials:** *materials*
+- **Materials:** *Aluminum, carbon fiber, injection molded plastic*
 
 
 
@@ -38,37 +38,37 @@
 
 ### At-a-glance
 
-- **Wheelbase:** ✅ ❌
+- **Wheelbase:** ✅
 
-- **Camber:** Front ✅ ❌ / Rear ✅ ❌
+- **Camber:** Front ✅ / Rear ✅
 
-- **Toe:** Front ✅ ❌ / Rear ✅ ❌
+- **Toe:** Front ✅ / Rear ✅
 
-- **Caster:** ✅ ❌
+- **Caster:** ✅
 
-- **Ackermann quick adjustment:** ✅ ❌
+- **Ackermann quick adjustment:** ❌
 
-- **Ride height:** Front ✅ ❌ / Rear ✅ ❌
+- **Ride height:** Front ✅ / Rear ✅
 
-- **Track width:** Front ✅ ❌ / Rear ✅ ❌
+- **Track width:** Front ✅ / Rear ❌
 
-- **Front shocks:** preload ✅ ❌ / angle ✅ ❌
+- **Front shocks:** preload ✅ / angle ✅
 
-- **Rear shocks:** preload ✅ ❌ / angle ✅ ❌
+- **Rear shocks:** preload ✅ / angle ✅
 
-- **Active systems:** ❌ ✅
+- **Active systems:** ❌
 
-- **Motor position:** mid ❌ ✅ / high ✅ ❌ / rear ✅ ❌
+- **Motor position:** mid ❌ / high ✅ / rear ❌
 
-- **Servo position:** ✅ ❌
+- **Servo position:** ✅
 
-- **Pinion-Spur distance:** ✅ ❌
+- **Pinion-Spur distance:** ✅
 
-- **Front knuckle KPI hinge point:** ❌ ✅
+- **Front knuckle KPI hinge point:** ✅
 
-- **Front knuckle steering linkage hinge point:** ❌ ✅
+- **Front knuckle steering linkage hinge point:** ✅
 
-- **Steering rack linkage hinge point:** ✅ ❌
+- **Steering rack linkage hinge point:** ✅
 
 
 
@@ -76,15 +76,15 @@
 
 - **Wheelbase adjustment method:** *slider / steps*
 
-- **Wheelbase range:** *xx–yyy mm*
+- **Wheelbase range:** *DPA2 98–110 mm (94-110 mm on DPA2.1)*
 
-- **Track width range:** *xx–yy mm*
+- **Track width range:** *78+ mm*
 
-- **Caster adjustment:** *stepless/steps/shims/static*
+- **Caster adjustment:** *shims*
 
-- **Ackermann adjustment:** *stepless/steps/static/shims*
+- **Ackermann adjustment:** *ball stud positions / links length*
 
-- **Rear toe behavior:** *adjustable/static/unknown/dynamic*
+- **Rear toe behavior:** *static*
 
 
 
@@ -94,15 +94,15 @@
 
 ## Drivetrain
 
-- **Gearbox type:** *gear-driven / belt-driven (mixed gears) / (v-belt)*
+- **Gearbox type:** *gear-driven*
 
-- **Motor orientation:** *transverse/ longitudinal*
+- **Motor orientation:** *transverse*
 
-- **Forces:** *pro-torque / anti-torque*
+- **Forces:** *anti-torque*
 
-- **Reversible:** ✅ ❌
+- **Reversible:** ❌
 
-- **Differential:** *spool / Open / Ball / LSD*
+- **Differential:** *spool / ball differential(optional)*
 
 
 
@@ -112,11 +112,9 @@
 
 ## Steering
 
-- **Steering method:** *direct / pivoted*
+- **Steering method:** *direct*
 
-- **Steering system:** *bellcrank / wiper / slide rack*
-
-- **Servo position:** *bulkhead mounted / upper deck / lower deck*
+- **Servo position:** *chassis-mounted between upper and lower decks*
 
 
 
@@ -128,7 +126,7 @@
 
 - **Front:** *double wishbone, independent, 2 shocks*
 
-- **Rear:** *multi-link, independent, 2 shocks*
+- **Rear:** *double wishbone, independent, 2 shocks*
 
 - **Shocks type:** *friction shocks*
 
@@ -136,18 +134,11 @@
 
 ## Notes
 
+The DPA2 appears to have reached production before the design was fully refined. Early kits and manuals contained several issues, prompting XRX to release updates shortly after launch.
 
 
-Available upgrade parts.
-
-
-
-Stuff
-
-
-
-![Photo2](pic2.jpg){ width="500" }
-
+![DPA2.1](dpa2.1.jpg){ width="500" }
+**DPA2.1** revision focused on correcting many of the original design flaws while also reducing production cost by removing some aluminum components and optional extras.
 
 
 ---

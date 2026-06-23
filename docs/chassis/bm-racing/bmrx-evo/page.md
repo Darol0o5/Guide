@@ -1,8 +1,8 @@
-# Chassis
+# BMR-X EVO
 
 
 
-![name](pic.jpg){ width="500" }
+![BMR-X EVO](bmrxevo.jpg){ width="500" }
 
 
 
@@ -10,21 +10,21 @@
 
 
 
-- **Developed by:** *brand/author*
+- **Developed by:** *BM Racing*
 
-- **Release:** *Month YYYY*
+- **Release:** *July 2023*
 
-- **Origin:** *Country*
+- **Origin:** *China*
 
-- **Status:** *Available/Pre-Order/Discontinued/Unknown*
+- **Status:** *Discontinued*
 
-- **Production:** *Batch/Pre-order/Mass/Prototype*
+- **Production:** *Mass*
 
 - **Scale:** *1/24*
 
-- **Body mounting:** *Magnet mounting/MINI-Z*
+- **Body mounting:** *Magnet mounting*
 
-- **Materials:** *materials*
+- **Materials:** *Aluminum, injection molded plastic*
 
 
 
@@ -38,53 +38,53 @@
 
 ### At-a-glance
 
-- **Wheelbase:** ✅ ❌
+- **Wheelbase:** ✅
 
-- **Camber:** Front ✅ ❌ / Rear ✅ ❌
+- **Camber:** Front ✅ / Rear ✅
 
-- **Toe:** Front ✅ ❌ / Rear ✅ ❌
+- **Toe:** Front ✅ / Rear ❌ (not confirmed)
 
-- **Caster:** ✅ ❌
+- **Caster:** ✅
 
-- **Ackermann quick adjustment:** ✅ ❌
+- **Ackermann quick adjustment:** ❌
 
-- **Ride height:** Front ✅ ❌ / Rear ✅ ❌
+- **Ride height:** Front ✅ / Rear ✅
 
-- **Track width:** Front ✅ ❌ / Rear ✅ ❌
+- **Track width:** Front ✅ / Rear ❌ (✅ option parts)
 
-- **Front shocks:** preload ✅ ❌ / angle ✅ ❌
+- **Front shocks:** preload ✅ / angle ✅
 
-- **Rear shocks:** preload ✅ ❌ / angle ✅ ❌
+- **Rear shocks:** preload ✅ / angle ✅
 
-- **Active systems:** ❌ ✅
+- **Active systems:** ❌
 
-- **Motor position:** mid ❌ ✅ / high ✅ ❌ / rear ✅ ❌
+- **Motor position:** mid ✅ / high ✅ / rear ❌
 
-- **Servo position:** ✅ ❌
+- **Servo position:** ❌
 
-- **Pinion-Spur distance:** ✅ ❌
+- **Pinion-Spur distance:** ✅
 
-- **Front knuckle KPI hinge point:** ❌ ✅
+- **Front knuckle KPI hinge point:** ❌
 
-- **Front knuckle steering linkage hinge point:** ❌ ✅
+- **Front knuckle steering linkage hinge point:** ❌ 
 
-- **Steering rack linkage hinge point:** ✅ ❌
+- **Steering rack linkage hinge point:** ❌
 
 
 
 ### Details
 
-- **Wheelbase adjustment method:** *slider / steps*
+- **Wheelbase adjustment method:** *slider & steps*
 
-- **Wheelbase range:** *xx–yyy mm*
+- **Wheelbase range:** *98–128 mm*
 
-- **Track width range:** *xx–yy mm*
+- **Track width range:** *73–83 mm*
 
-- **Caster adjustment:** *stepless/steps/shims/static*
+- **Caster adjustment:** *stepless*
 
-- **Ackermann adjustment:** *stepless/steps/static/shims*
+- **Ackermann adjustment:** *shims*
 
-- **Rear toe behavior:** *adjustable/static/unknown/dynamic*
+- **Rear toe behavior:** *static*
 
 
 
@@ -94,15 +94,15 @@
 
 ## Drivetrain
 
-- **Gearbox type:** *gear-driven / belt-driven (mixed gears) / (v-belt)*
+- **Gearbox type:** *gear-driven*
 
-- **Motor orientation:** *transverse/ longitudinal*
+- **Motor orientation:** *transverse*
 
-- **Forces:** *pro-torque / anti-torque*
+- **Forces:** *pro-torque*
 
-- **Reversible:** ✅ ❌
+- **Reversible:** ❌
 
-- **Differential:** *spool / Open / Ball / LSD*
+- **Differential:** *open / spool*
 
 
 
@@ -112,11 +112,11 @@
 
 ## Steering
 
-- **Steering method:** *direct / pivoted*
+- **Steering method:** *pivoted*
 
-- **Steering system:** *bellcrank / wiper / slide rack*
+- **Steering system:** *slide rack*
 
-- **Servo position:** *bulkhead mounted / upper deck / lower deck*
+- **Servo position:** *upper deck*
 
 
 
@@ -128,7 +128,7 @@
 
 - **Front:** *double wishbone, independent, 2 shocks*
 
-- **Rear:** *multi-link, independent, 2 shocks*
+- **Rear:** *double wishbone, independent, 2 shocks*
 
 - **Shocks type:** *friction shocks*
 
@@ -136,17 +136,12 @@
 
 ## Notes
 
+EVO replaces the longitudinal layout of the BMR-X PRO with a transverse gearbox configuration.
 
+After a few upgrades, the next evolution of the platform was released: 
+[BMR-X EVOII](../bmrx-evoii/page.md)
 
-Available upgrade parts.
-
-
-
-Stuff
-
-
-
-![Photo2](pic2.jpg){ width="500" }
+![BMR-X EVOII](../bmrx-evoii/evo2.jpg){ width="500" }
 
 
 

@@ -1,8 +1,8 @@
-# Chassis
+# G-Force D1
 
 
 
-![name](pic.jpg){ width="500" }
+![D1Pro](d1pro.png){ width="500" }
 
 
 
@@ -10,21 +10,21 @@
 
 
 
-- **Developed by:** *brand/author*
+- **Developed by:** *G-Force*
 
-- **Release:** *Month YYYY*
+- **Release:** *October 2022*
 
-- **Origin:** *Country*
+- **Origin:** *Thailand*
 
-- **Status:** *Available/Pre-Order/Discontinued/Unknown*
+- **Status:** *Discontinued*
 
-- **Production:** *Batch/Pre-order/Mass/Prototype*
+- **Production:** *Low number*
 
 - **Scale:** *1/24*
 
 - **Body mounting:** *Magnet mounting/MINI-Z*
 
-- **Materials:** *materials*
+- **Materials:** *Plastic / Plastic & Carbon fiber / Aluminum + Carbon fiber*
 
 
 
@@ -38,53 +38,53 @@
 
 ### At-a-glance
 
-- **Wheelbase:** ✅ ❌
+- **Wheelbase:** ✅
 
-- **Camber:** Front ✅ ❌ / Rear ✅ ❌
+- **Camber:** Front ✅ / Rear ✅
 
-- **Toe:** Front ✅ ❌ / Rear ✅ ❌
+- **Toe:** Front ✅ / Rear ✅(not confirmed)
 
-- **Caster:** ✅ ❌
+- **Caster:** ✅
 
-- **Ackermann quick adjustment:** ✅ ❌
+- **Ackermann quick adjustment:** ❌(not confirmed)
 
-- **Ride height:** Front ✅ ❌ / Rear ✅ ❌
+- **Ride height:** Front ✅ / Rear ✅
 
-- **Track width:** Front ✅ ❌ / Rear ✅ ❌
+- **Track width:** Front ✅ / Rear ❌
 
-- **Front shocks:** preload ✅ ❌ / angle ✅ ❌
+- **Front shocks:** preload ✅ / angle ✅
 
-- **Rear shocks:** preload ✅ ❌ / angle ✅ ❌
+- **Rear shocks:** preload ✅ / angle ✅
 
-- **Active systems:** ❌ ✅
+- **Active systems:** ❌
 
-- **Motor position:** mid ❌ ✅ / high ✅ ❌ / rear ✅ ❌
+- **Motor position:** mid ✅ / high ✅ / rear ✅
 
-- **Servo position:** ✅ ❌
+- **Servo position:** ✅
 
-- **Pinion-Spur distance:** ✅ ❌
+- **Pinion-Spur distance:** ✅
 
-- **Front knuckle KPI hinge point:** ❌ ✅
+- **Front knuckle KPI hinge point:** ✅
 
-- **Front knuckle steering linkage hinge point:** ❌ ✅
+- **Front knuckle steering linkage hinge point:** ✅
 
-- **Steering rack linkage hinge point:** ✅ ❌
+- **Steering rack linkage hinge point:** ✅
 
 
 
 ### Details
 
-- **Wheelbase adjustment method:** *slider / steps*
+- **Wheelbase adjustment method:** *slider*
 
-- **Wheelbase range:** *xx–yyy mm*
+- **Wheelbase range:** *94–116 mm*
 
-- **Track width range:** *xx–yy mm*
+- **Track width range:** *unknown*
 
-- **Caster adjustment:** *stepless/steps/shims/static*
+- **Caster adjustment:** *stepless*
 
-- **Ackermann adjustment:** *stepless/steps/static/shims*
+- **Ackermann adjustment:** *switching ballhead positions(not confirmed if stepless adjustment is available)*
 
-- **Rear toe behavior:** *adjustable/static/unknown/dynamic*
+- **Rear toe behavior:** *static*
 
 
 
@@ -94,15 +94,15 @@
 
 ## Drivetrain
 
-- **Gearbox type:** *gear-driven / belt-driven (mixed gears) / (v-belt)*
+- **Gearbox type:** *belt-driven*
 
-- **Motor orientation:** *transverse/ longitudinal*
+- **Motor orientation:** *transverse*
 
-- **Forces:** *pro-torque / anti-torque*
+- **Forces:** *anti-torque*
 
-- **Reversible:** ✅ ❌
+- **Reversible:** ✅
 
-- **Differential:** *spool / Open / Ball / LSD*
+- **Differential:** *spool*
 
 
 
@@ -112,11 +112,11 @@
 
 ## Steering
 
-- **Steering method:** *direct / pivoted*
+- **Steering method:** *direct*
 
-- **Steering system:** *bellcrank / wiper / slide rack*
+- **Servo position:** *bulkhead mounted / upper deck*
 
-- **Servo position:** *bulkhead mounted / upper deck / lower deck*
+- *Adjustable tilt angle*
 
 
 
@@ -128,7 +128,7 @@
 
 - **Front:** *double wishbone, independent, 2 shocks*
 
-- **Rear:** *multi-link, independent, 2 shocks*
+- **Rear:** *double wishbone, independent, 2 shocks*
 
 - **Shocks type:** *friction shocks*
 
@@ -136,17 +136,18 @@
 
 ## Notes
 
+G-Force D1 has been promoted with 3 versions to choose from: 
 
+- D1 Lite: All plastic
+- D1-R: Plastic and carbon fiber
+- D1 Pro: Aluminum and carbon fiber, as for the first batch, the customers were given the options to choose the anodizing color of the aluminum parts
 
-Available upgrade parts.
+I've not found trusted number for amount of D1 kits produced yet, but the kit was known to have some issues, inclucind QC.
 
+The community put the author under pressure for taking too long to solve some cases and the brand quickly lost the trust for a while. 
+But at the end, G-Force kept their word and saved their name. Later, their journey continued with new kit, produced by NEXX Racing, called [G-Force TT24](../g-forcett24/page.md)
+![TT24](../g-forcett24/tt24.jpg)  
 
-
-Stuff
-
-
-
-![Photo2](pic2.jpg){ width="500" }
 
 
 

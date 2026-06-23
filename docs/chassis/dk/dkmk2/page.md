@@ -12,7 +12,7 @@
 
 - **Developed by:** *NSL*
 
-- **Release:** *November 2020*
+- **Release:** *End of 2019 - Early 2020*
 
 - **Origin:** *China*
 

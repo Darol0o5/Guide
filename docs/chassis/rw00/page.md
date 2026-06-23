@@ -143,13 +143,16 @@ Zero RC is known for providing one of the most detailed instruction manuals, inc
 
 
 **RW00S** released in may 2024
+
 ![RW00S](rw00s.jpg){ width="500" }
 
 **RW00SR** released in may 2025 in a few different versions, including AWD front axles
+
 ![RW00SR](rw00sr.jpg){ width="500" }
 
 The platform supports more than 10 shocks, allowing very fine control over suspension behavior throughout the travel range.
 Multiple drivtrain layouts and extensive possibilities in a single chassis. 
+
 ![SR2](sr2.jpg){ width="500" }
 
 ---

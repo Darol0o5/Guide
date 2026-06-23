@@ -1,8 +1,8 @@
-# Chassis
+# DWX Ju-An
 
 
 
-![name](pic.jpg){ width="500" }
+![name](ju-an.jpg){ width="500" }
 
 
 
@@ -10,21 +10,21 @@
 
 
 
-- **Developed by:** *brand/author*
+- **Developed by:** *DWX*
 
-- **Release:** *Month YYYY*
+- **Release:** *June 2023*
 
-- **Origin:** *Country*
+- **Origin:** *China*
 
-- **Status:** *Available/Pre-Order/Discontinued/Unknown*
+- **Status:** *Discontinued*
 
-- **Production:** *Batch/Pre-order/Mass/Prototype*
+- **Production:** *Batch*
 
 - **Scale:** *1/24*
 
-- **Body mounting:** *Magnet mounting/MINI-Z*
+- **Body mounting:** *Magnet mounting*
 
-- **Materials:** *materials*
+- **Materials:** *Plastic, carbon fiber, aluminum*
 
 
 
@@ -38,37 +38,37 @@
 
 ### At-a-glance
 
-- **Wheelbase:** ✅ ❌
+- **Wheelbase:** ✅
 
-- **Camber:** Front ✅ ❌ / Rear ✅ ❌
+- **Camber:** Front ✅ / Rear ✅
 
-- **Toe:** Front ✅ ❌ / Rear ✅ ❌
+- **Toe:** Front ✅ / Rear ✅ ❌
 
-- **Caster:** ✅ ❌
+- **Caster:** ✅
 
-- **Ackermann quick adjustment:** ✅ ❌
+- **Ackermann quick adjustment:** ✅
 
-- **Ride height:** Front ✅ ❌ / Rear ✅ ❌
+- **Ride height:** Front ✅ / Rear ✅
 
-- **Track width:** Front ✅ ❌ / Rear ✅ ❌
+- **Track width:** Front ✅ / Rear ❌ (not confirmed)
 
-- **Front shocks:** preload ✅ ❌ / angle ✅ ❌
+- **Front shocks:** preload ✅ / angle ❌
 
-- **Rear shocks:** preload ✅ ❌ / angle ✅ ❌
+- **Rear shocks:** preload ✅ / angle ✅
 
-- **Active systems:** ❌ ✅
+- **Active systems:** ❌
 
-- **Motor position:** mid ❌ ✅ / high ✅ ❌ / rear ✅ ❌
+- **Motor position:** mid ❌ / high ✅ / rear ✅
 
-- **Servo position:** ✅ ❌
+- **Servo position:** ❌
 
-- **Pinion-Spur distance:** ✅ ❌
+- **Pinion-Spur distance:** ✅
 
-- **Front knuckle KPI hinge point:** ❌ ✅
+- **Front knuckle KPI hinge point:** ❌
 
-- **Front knuckle steering linkage hinge point:** ❌ ✅
+- **Front knuckle steering linkage hinge point:** ❌
 
-- **Steering rack linkage hinge point:** ✅ ❌
+- **Steering rack linkage hinge point:** ❌ (not confirmed)
 
 
 
@@ -76,15 +76,15 @@
 
 - **Wheelbase adjustment method:** *slider / steps*
 
-- **Wheelbase range:** *xx–yyy mm*
+- **Wheelbase range:** *98–124 mm*
 
-- **Track width range:** *xx–yy mm*
+- **Track width range:** *min. 66 mm(measured without wheels)*
 
-- **Caster adjustment:** *stepless/steps/shims/static*
+- **Caster adjustment:** *shims*
 
-- **Ackermann adjustment:** *stepless/steps/static/shims*
+- **Ackermann adjustment:** *stepless*
 
-- **Rear toe behavior:** *adjustable/static/unknown/dynamic*
+- **Rear toe behavior:** *static*
 
 
 
@@ -94,15 +94,15 @@
 
 ## Drivetrain
 
-- **Gearbox type:** *gear-driven / belt-driven (mixed gears) / (v-belt)*
+- **Gearbox type:** *gear-driven*
 
 - **Motor orientation:** *transverse/ longitudinal*
 
-- **Forces:** *pro-torque / anti-torque*
+- **Forces:** *anti-torque*
 
-- **Reversible:** ✅ ❌
+- **Reversible:** ❌
 
-- **Differential:** *spool / Open / Ball / LSD*
+- **Differential:** *unknown*
 
 
 
@@ -112,11 +112,11 @@
 
 ## Steering
 
-- **Steering method:** *direct / pivoted*
+- **Steering method:** *pivoted*
 
-- **Steering system:** *bellcrank / wiper / slide rack*
+- **Steering system:** *bellcrank*
 
-- **Servo position:** *bulkhead mounted / upper deck / lower deck*
+- **Servo position:** *lower deck*
 
 
 
@@ -126,27 +126,15 @@
 
 ## Suspension
 
-- **Front:** *double wishbone, independent, 2 shocks*
+- **Front:** *double wishbone, independent, 2 shocks, cantilever arms*
 
-- **Rear:** *multi-link, independent, 2 shocks*
+- **Rear:** *double wishbone, independent, 2 shocks*
 
 - **Shocks type:** *friction shocks*
 
 
 
 ## Notes
-
-
-
-Available upgrade parts.
-
-
-
-Stuff
-
-
-
-![Photo2](pic2.jpg){ width="500" }
 
 
 

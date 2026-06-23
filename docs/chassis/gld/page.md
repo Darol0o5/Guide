@@ -78,7 +78,7 @@
 
 - **Wheelbase range:** *fixed 94 or 98 mm. 90-106 mm(Upgrade)*
 
-- **Track width range:** *xx–yy mm*
+- **Track width range:** *65+ mm*
 
 - **Caster adjustment:** *stepless*
 

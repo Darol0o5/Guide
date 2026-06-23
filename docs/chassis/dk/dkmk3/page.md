@@ -1,8 +1,8 @@
-# Chassis
+# DKMK3
 
 
 
-![name](pic.jpg){ width="500" }
+![DKMK3](dkmk3.png){ width="500" }
 
 
 
@@ -10,21 +10,21 @@
 
 
 
-- **Developed by:** *brand/author*
+- **Developed by:** *NSL*
 
-- **Release:** *Month YYYY*
+- **Release:** *Late 2021 - early 2022*
 
-- **Origin:** *Country*
+- **Origin:** *China*
 
-- **Status:** *Available/Pre-Order/Discontinued/Unknown*
+- **Status:** *Available*
 
-- **Production:** *Batch/Pre-order/Mass/Prototype*
+- **Production:** *Batch*
 
 - **Scale:** *1/24*
 
-- **Body mounting:** *Magnet mounting/MINI-Z*
+- **Body mounting:** *Magnet mounting*
 
-- **Materials:** *materials*
+- **Materials:** *Plastic*
 
 
 
@@ -38,37 +38,37 @@
 
 ### At-a-glance
 
-- **Wheelbase:** ✅ ❌
+- **Wheelbase:** ✅
 
-- **Camber:** Front ✅ ❌ / Rear ✅ ❌
+- **Camber:** Front ✅ / Rear ✅
 
-- **Toe:** Front ✅ ❌ / Rear ✅ ❌
+- **Toe:** Front ✅ / Rear ✅
 
-- **Caster:** ✅ ❌
+- **Caster:** ✅
 
-- **Ackermann quick adjustment:** ✅ ❌
+- **Ackermann quick adjustment:** ✅
 
-- **Ride height:** Front ✅ ❌ / Rear ✅ ❌
+- **Ride height:** Front ✅ / Rear ✅
 
-- **Track width:** Front ✅ ❌ / Rear ✅ ❌
+- **Track width:** Front ✅ / Rear ❌ (not confirmed)
 
-- **Front shocks:** preload ✅ ❌ / angle ✅ ❌
+- **Front shocks:** preload ✅ / angle ✅
 
-- **Rear shocks:** preload ✅ ❌ / angle ✅ ❌
+- **Rear shocks:** preload ✅ / angle ✅
 
-- **Active systems:** ❌ ✅
+- **Active systems:** ❌
 
-- **Motor position:** mid ❌ ✅ / high ✅ ❌ / rear ✅ ❌
+- **Motor position:** mid ✅ / high ✅ / rear ✅
 
-- **Servo position:** ✅ ❌
+- **Servo position:** ✅
 
-- **Pinion-Spur distance:** ✅ ❌
+- **Pinion-Spur distance:** ✅
 
-- **Front knuckle KPI hinge point:** ❌ ✅
+- **Front knuckle KPI hinge point:** ❌
 
-- **Front knuckle steering linkage hinge point:** ❌ ✅
+- **Front knuckle steering linkage hinge point:** ❌
 
-- **Steering rack linkage hinge point:** ✅ ❌
+- **Steering rack linkage hinge point:** ❌
 
 
 
@@ -76,15 +76,15 @@
 
 - **Wheelbase adjustment method:** *slider / steps*
 
-- **Wheelbase range:** *xx–yyy mm*
+- **Wheelbase range:** *??–?? mm*
 
-- **Track width range:** *xx–yy mm*
+- **Track width range:** *??–?? mm*
 
-- **Caster adjustment:** *stepless/steps/shims/static*
+- **Caster adjustment:** *shims*
 
-- **Ackermann adjustment:** *stepless/steps/static/shims*
+- **Ackermann adjustment:** *stepless*
 
-- **Rear toe behavior:** *adjustable/static/unknown/dynamic*
+- **Rear toe behavior:** *static*
 
 
 
@@ -94,15 +94,15 @@
 
 ## Drivetrain
 
-- **Gearbox type:** *gear-driven / belt-driven (mixed gears) / (v-belt)*
+- **Gearbox type:** *belt-driven / v-belt*
 
-- **Motor orientation:** *transverse/ longitudinal*
+- **Motor orientation:** *transverse*
 
-- **Forces:** *pro-torque / anti-torque*
+- **Forces:** *anti-torque*
 
-- **Reversible:** ✅ ❌
+- **Reversible:** ✅
 
-- **Differential:** *spool / Open / Ball / LSD*
+- **Differential:** *spool*
 
 
 
@@ -112,11 +112,9 @@
 
 ## Steering
 
-- **Steering method:** *direct / pivoted*
+- **Steering method:** *direct*
 
-- **Steering system:** *bellcrank / wiper / slide rack*
-
-- **Servo position:** *bulkhead mounted / upper deck / lower deck*
+- **Servo position:** *lower deck*
 
 
 
@@ -128,7 +126,7 @@
 
 - **Front:** *double wishbone, independent, 2 shocks*
 
-- **Rear:** *multi-link, independent, 2 shocks*
+- **Rear:** *double wishbone, independent, 2 shocks*
 
 - **Shocks type:** *friction shocks*
 
@@ -137,18 +135,23 @@
 ## Notes
 
 
-
-Available upgrade parts.
-
-
-
-Stuff
-
+Many upgrades have been released. Some of them to note are: 
+- anti roll bar (swaybar)
+- straight rear bridge (solid axle)
+  
+Thanks to "TC Emre Yurdakul", we have these nice images of highly upgraded MK3. Only missing the realistic brakes kit. The shocks are from MA Racing D24.
 
 
-![Photo2](pic2.jpg){ width="500" }
+![DKMK3OP](dkmk3opf.jpg){ width="500" }
+![DKMK3OP](dkmk3opr.jpg){ width="500" }
+![DKMK3OP](dkmk3opb.jpg){ width="500" }
+
+**Below is realistic Toyota Supra A90 chassis variant of the DKMK3**
+
+![DKMK3OP](dkmk3a90.jpg){ width="500" }
 
 
+TC Emre Yurdakul once organized a group buy for the A90 variant,which would have been produce if at lease 50 pre-orders were secured.
 
 ---
 

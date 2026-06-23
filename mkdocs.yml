@@ -19,12 +19,9 @@ nav:
   - Home: index.md
   - History:
      - How RWD came to small scale drifting: history/how-rwd-came-to-small-scale.md
-  - Terminology:
-     - Camber: terminology/camber.md
+  - Terminology: terminology/terminology.md
   - Beginner:
-     - Basic Electronics: beginner/electronics.md
-     - Chassis Basics: beginner/chassis.md
-     - Alignment: beginner/alignment.md
+      - Choosing Your First Chassis: beginner/firstchassis.md
   - Chassis: chassis/catalogue.md
   - Contribute: contribute/contribute.md
      
@@ -45,6 +42,12 @@ theme:
 
 extra_css:
     - stylesheets/extra.css
+    - stylesheets/ratings.css
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2
+  - javascripts/ratings.js
+
 
 
 markdown_extensions:

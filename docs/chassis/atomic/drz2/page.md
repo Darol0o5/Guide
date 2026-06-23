@@ -78,7 +78,7 @@
 
 - **Wheelbase range:** *90–98 mm(102-114 mm with upgrade parts)*
 
-- **Track width range:** *xx–yy mm*
+- **Track width range:** *65+ mm*
 
 - **Caster adjustment:** *shims*
 
