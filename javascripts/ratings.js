@@ -5,7 +5,7 @@ const supabaseClient = window.supabase.createClient(supabaseUrl, supabaseKey);
 
 const ratingCategories = [
     { key: "qc", label: "QC" },
-    { key: "building_difficulty", label: "Building difficulty" },
+    { key: "building_difficulty", label: "Ease of build" },
     { key: "parts_availability", label: "Parts availability" },
     { key: "upgrade_ecosystem", label: "Upgrade ecosystem" },
     { key: "value_for_money", label: "Value for money" }
