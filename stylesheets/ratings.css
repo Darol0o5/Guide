@@ -1,0 +1,69 @@
+.chassis-rating {
+    margin-top: 0.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.rating-row {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    margin: 0.55rem 0;
+    flex-wrap: wrap;
+}
+
+.rating-label {
+    min-width: 150px;
+    font-weight: 600;
+}
+
+.rating-stars {
+    font-size: 1.2rem;
+    letter-spacing: 0.04em;
+}
+
+.rating-score {
+    font-size: 0.95rem;
+}
+
+.rating-votes {
+    font-size: 0.85rem;
+    opacity: 0.75;
+}
+
+.rating-status {
+    margin-left: 150px;
+    min-height: 1rem;
+    font-size: 0.8rem;
+    opacity: 0.75;
+}
+
+/* Display + clickable rating stars */
+.vote-stars {
+    cursor: pointer;
+}
+
+.stars-container {
+    display: inline-flex;
+    gap: 0.04em;
+    line-height: 1;
+}
+
+.star-item {
+    position: relative;
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+}
+
+.star-bg {
+    color: #999;
+}
+
+.star-fill {
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    color: #f5b301;
+}
