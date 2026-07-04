@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://darol0o5.github.io/Guide/sitemap.xml
+Sitemap: https://darol0o5.github.io/Guide/sitemap_index.xml
