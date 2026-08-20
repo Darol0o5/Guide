@@ -132,9 +132,11 @@
 
 - **Shocks type:** *friction shocks*
 
+## Community ratings
 
+<div class="chassis-rating" data-slug="bmrxevo"></div>
 
-## Notes
+## History & Development
 
 EVO replaces the longitudinal layout of the BMR-X PRO with a transverse gearbox configuration.
 
@@ -153,7 +155,7 @@ After a few upgrades, the next evolution of the platform was released:
 
 
 
-Have extra info or experience with this chassis? [Contribute here](../../contribute/contribute.md)
+Have extra info or experience with this chassis? [Contribute here](../../../contribute/contribute.md)
 
 
 

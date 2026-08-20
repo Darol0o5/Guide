@@ -64,7 +64,11 @@
 - **Rear:**  *double wishbone, independent, 2 direct-acting shocks*
 - **Shocks type:**  *friction shocks*
 
-## Notes
+## Community ratings
+
+<div class="chassis-rating" data-slug="kronoz"></div>
+
+## History & Development
 
 All arm & knuckle (hub), T Steering & Wiper Steering System, optional part, a couple of rod & optional spur gear & pinion set.
 

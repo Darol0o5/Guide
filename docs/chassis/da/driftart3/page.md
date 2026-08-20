@@ -132,9 +132,11 @@
 
 - **Shocks type:** *friction shocks*
 
+## Community ratings
 
+<div class="chassis-rating" data-slug="da3"></div>
 
-## Notes
+## History & Development
 
 The consistent releasing of upgrades and innovations became the trademark of DriftART.
 
@@ -169,7 +171,7 @@ The successor of DA3S is the current DriftART kit: [DriftART4](../driftart4/page
 
 
 
-Have extra info or experience with this chassis? [Contribute here](../../contribute/contribute.md)
+Have extra info or experience with this chassis? [Contribute here](../../../contribute/contribute.md)
 
 
 

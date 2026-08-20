@@ -1,19 +1,13 @@
 site_name: All in one small scale RWD Drift Guide
+site_description: All-in-one reference for small-scale RWD RC drift chassis, history, setup and beginner guides.
 site_url: https://darol0o5.github.io/Guide/
 
 extra:
   homepage: https://darol0o5.github.io/Guide/
-  og_image: assets/og/default.jpg
+  og_image: https://darol0o5.github.io/Guide/assets/og/default.jpg
 
-extra_meta:
-  - property: og:type
-    content: website
-  - property: og:image
-    content: https://darol0o5.github.io/Guide/assets/og/default.jpg
-  - property: og:image:width
-    content: "1200"
-  - property: og:image:height
-    content: "630"
+  analytics:
+    provider: custom
 
 nav:
   - Home: index.md
@@ -51,6 +45,7 @@ extra_javascript:
 
 
 markdown_extensions:
+    - meta
     - admonition
     - attr_list
     - md_in_html
@@ -67,4 +62,5 @@ markdown_extensions:
 
 plugins:
   - search
+  
   

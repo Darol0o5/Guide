@@ -130,9 +130,11 @@
 
 - **Shock type:** *friction shock*
 
+## Community ratings
 
+<div class="chassis-rating" data-slug="fenrir"></div>
 
-## Notes
+## History & Development
 
 The predecessor of Fenrir is [K-EP Slimmer](../slimmer/page.md)
 

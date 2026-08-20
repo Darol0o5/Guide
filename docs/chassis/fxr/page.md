@@ -135,7 +135,7 @@
 
 
 
-## Notes
+## History & Development
 
 
 ![FXR-2 EVO](.jpg){ width="500" }

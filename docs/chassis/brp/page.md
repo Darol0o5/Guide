@@ -130,9 +130,11 @@
 
 - **Shock type:** *friction shock*
 
+## Community ratings
 
+<div class="chassis-rating" data-slug="brp"></div>
 
-## Notes
+## History & Development
 
 One of the first independent designs to appear, BRP became famous at local grounds.
 

@@ -1,3 +1,9 @@
+---
+title: HGD1
+description: Technical overview, specifications, adjustability and background information for the HGD1 small-scale RWD drift chassis.
+og_image: https://darol0o5.github.io/Guide/assets/og/hgd.jpg
+---
+
 # HGD1
 
 
@@ -40,17 +46,19 @@
 
 - **Wheelbase:** ✅
 
+- **Track width:** Front ✅ / Rear ✅
+
 - **Camber:** Front ✅ / Rear ✅
 
-- **Toe:** Front ✅ / Rear ✅
+- **Camber gain:** Front ❌ / Rear ❌
 
 - **Caster:** ❌
 
 - **Ackermann quick adjustment:** ❌
 
-- **Ride height:** Front ✅ / Rear ✅
+- **Toe:** Front ✅ / Rear ✅
 
-- **Track width:** Front ✅ / Rear ✅ 
+- **Ride height:** Front ✅ / Rear ✅ 
 
 - **Front shocks:** preload ❌ / angle ❌
 
@@ -60,15 +68,15 @@
 
 - **Motor position:** mid ✅ / high ❌ / rear ❌
 
-- **Servo position:** ❌
+- **Belt tension/Pinion size:** ✅
 
-- **Pinion-Spur distance:** ✅
+- **Extendable dogbones:** ❌
+- 
+- **Front knuckle KPI:** ❌
 
-- **Front knuckle KPI hinge point:** ❌
+- **Steering linkage position on knuckle:** ✅
 
-- **Front knuckle steering linkage hinge point:** ✅
-
-- **Steering rack linkage hinge point:** ❌
+- **Steering rack linkage position:** ❌
 
 
 
@@ -130,9 +138,23 @@
 
 - **Shocks type:** *spring-based friction damper*
 
+## Community ratings
+
+<div class="chassis-rating" data-slug="hgd"></div>
+
+## History & Development
+
+When the HGD1 appeared in late 2019, the small-scale RWD drift scene was beginning to expand rapidly. While manufacturers were introducing increasingly diverse chassis concepts, it followed a different philosophy. Rather than pushing the boundaries of chassis design, HGD1 focused on lowering the barrier to entry by offering a practical, easy-to-own platform aimed at making small-scale RWD drifting accessible to a wider audience.
+
+Unlike most competitors at the time, the HGD1 was widely available through major Chinese marketplaces in Kit, ARTR and fully assembled RTR packages, often including electronics, a transmitter, a body shell and even working lights. This allowed newcomers to enter the hobby without researching component compatibility or assembling a chassis entirely from scratch.
+
+Mechanically, the chassis remained very simple. It used spring-based suspension with limited damping, direct steering and a longitudinal gear-driven drivetrain. Although it lacked many of the innovative engineering solutions introduced by some competing platforms, it offered a generous wheelbase adjustment range, compatibility with numerous body styles and a selection of optional upgrade parts.
+
+Despite receiving only minor updates, the HGD1 remained widely available for years after its initial release and can still be found through various retailers today, making it one of the longest continuously available first-generation RWD drift chassis from the early growth of the hobby.
 
 
-## Notes
+---
+
 
 **Some upgrade parts to be mentioned:**
 - servo horn compatible with AFRC D2114 and A11CLS servos
@@ -141,13 +163,17 @@
 - 1/24 conversion(wide kit)
 - upgrade upper deck
   
+---
 
+**HGD1 RTR example**
 
-**Cheaper option with some plastic parts also available as HGV1**
+![HGV1](rtr.jpg){ width="500" }
+
+---
+
+**Cheaper version with some plastic parts also available as HGV1**
 
 ![HGV1](hgv.jpg){ width="500" }
-
-
 
 ---
 

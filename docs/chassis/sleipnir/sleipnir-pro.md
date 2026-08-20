@@ -132,9 +132,10 @@
 
 - **Shocks type:** *friction shocks*
 
+## Community ratings
 
 
-## Notes
+## History & Development
 
 
 

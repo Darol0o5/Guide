@@ -138,9 +138,11 @@
 
 - **Shocks type:** *friction shocks*
 
+## Community ratings
 
+<div class="chassis-rating" data-slug="tgsu"></div>
 
-## Notes
+## History & Development
 
 
 

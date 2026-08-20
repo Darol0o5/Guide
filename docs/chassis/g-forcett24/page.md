@@ -132,9 +132,11 @@
 
 - **Shocks type:** *friction shocks*
 
+## Community ratings
 
+<div class="chassis-rating" data-slug="tt24"></div>
 
-## Notes
+## History & Development
 
 
 

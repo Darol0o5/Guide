@@ -130,9 +130,11 @@
 
 - **Shocks type:** *friction shocks*
 
+## Community ratings
 
+<div class="chassis-rating" data-slug="pwk3"></div>
 
-## Notes
+## History & Development
 
 **Upgrades to highlight:**
 
@@ -154,7 +156,7 @@
 
 
 
-Have extra info or experience with this chassis? [Contribute here](../../contribute/contribute.md)
+Have extra info or experience with this chassis? [Contribute here](../../../contribute/contribute.md)
 
 
 

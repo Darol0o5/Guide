@@ -131,9 +131,11 @@
 
 - **Shocks type:** *friction shock*
 
+## Community ratings
 
+<div class="chassis-rating" data-slug="rehope"></div>
 
-## Notes
+## History & Development
 
 
 **K-Enhance Project was born as Wltoys K9 front end conversion:**

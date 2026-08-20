@@ -129,9 +129,11 @@
 
 - **Shocks type:** *friction shocks*
 
+## Community ratings
 
+<div class="chassis-rating" data-slug="ae24x"></div>
 
-## Notes WIP section
+## History & Development
 
 
 ![AE24XPRO](ae24x-pro.jpg){ width="500" }

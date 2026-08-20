@@ -1,8 +1,14 @@
-# Techstorm XRX DPA Sport
+---
+title: XRX DPA
+description: Technical overview, specifications, adjustability and background information for the XRX DPA small-scale RWD drift chassis.
+og_image: https://darol0o5.github.io/Guide/assets/og/dpa.jpg
+---
+
+# Techstorm XRX DPA
 
 
 
-![XRX](dpas.jpg){ width="500" }
+![XRX](xrx.jpg){ width="500" }
 
 
 
@@ -12,7 +18,7 @@
 
 - **Developed by:** *Techstorm Racing*
 
-- **Release:** *July 2019*
+- **Release:** *Мarch 2019*
 
 - **Origin:** *Hongkong*
 
@@ -24,7 +30,7 @@
 
 - **Body mounting:** *Kyosho(Magnet mounting with upgrade)*
 
-- **Materials:** *Injection molded plastic, stainless steel,aluminum carbon fiber and updates from brass, nylon and aluminum*
+- **Materials:** *Injection molded plastic, stainless steel,aluminum carbon fiber and updates from brass, nylon and aluminum depending on the version and options*
 
 
 ---
@@ -39,17 +45,19 @@
 
 - **Wheelbase:** ❌(✅ with optional upgrade)
 
-- **Camber:** Front ✅ / Rear ✅
+- **Track width:** Front ✅ / Rear ❌(✅ with optional upgrades)
 
-- **Toe:** Front ✅ / Rear ❌(✅ with optional upgrade)
+- **Camber:** Front ✅ / Rear ✅
+  
+- **Camber gain:** Front ❌ / Rear ❌
 
 - **Caster:** ✅
 
 - **Ackermann quick adjustment:** ❌
 
-- **Ride height:** Front ✅ / Rear ✅
+- **Toe:** Front ✅ / Rear ❌(✅ with optional upgrade)
 
-- **Track width:** Front ✅ / Rear ❌(✅ with optional upgrades)
+- **Ride height:** Front ✅ / Rear ✅
 
 - **Front shocks:** preload ✅ / angle ✅
 
@@ -59,22 +67,24 @@
 
 - **Motor position:** mid ✅ / high ✅ / rear ❌
 
+- **Belt tension/Pinion size:** ✅
+
+- **Extendable dogbones:** ❌ (✅ different lengths optional)
+
 - **Servo position:** ❌
 
-- **Pinion-Spur distance:** ✅
+- **Front knuckle KPI:** ❌
 
-- **Front knuckle KPI hinge point:** ❌
+- **Steering linkage position on knuckle:** ❌
 
-- **Front knuckle steering linkage hinge point:** ❌
-
-- **Steering rack linkage hinge point:** ✅
+- **Steering rack linkage position:** ✅
 
 
 ### Details
 
 - **Wheelbase adjustment method:** *fixed WB (steps/slider with op plate)*
 
-- **Wheelbase range:** *fixed 94mm(90mm-120mm with optional chassis plate)*
+- **Wheelbase range:** *fixed 90/94mm(90mm-120mm with optional chassis plate)*
  
 - **Track width range:** *70-?? mm*
 
@@ -106,7 +116,7 @@
 
 - **Reversible:** ❌
 
-- **Differential:** *spool / ball diff(option part)*
+- **Differential:** *spool / ball (depending on the version)*
 
 
 
@@ -136,27 +146,33 @@
 
 - **Shocks type:** *friction shocks*
 
+## Community ratings
 
+<div class="chassis-rating" data-slug="dpa"></div>
 
-## Notes
+## History & Development
 
+When the XRX DPA MK1 was announced in March 2019, the small-scale RWD drift scene was still in its infancy. At the time, enthusiasts had very few commercially available options beyond the [Atomic DRZ](../atomic/drz/page.md), with the remaining alternatives consisting mostly of independent or 3D printed projects. The DPA gave enthusiasts their first serious commercially available alternative to the Atomic DRZ. The original MK1 was introduced as a premium full-option kit featuring aluminum, carbon fiber and a sliding rack steering system.
 
+A few months later, XRX expanded the lineup with the more affordable DPA Sport. Rather than replacing the original MK1, the Sport introduced plastic components to reduce manufacturing costs and make the platform accessible to a wider audience. While this lowered the entry price, early Sport kits also received criticism for the durability of some plastic parts, prompting XRX to gradually introduce reinforced components and numerous aluminum upgrade options.
 
-**May 2019 XRX DPA was introduced** 
+Unlike many manufacturers that moved quickly from one chassis generation to the next, XRX continued developing the original DPA platform for several years. The company regularly released runnin production updates, reinforced components, optional aluminum upgrades, adjustable chassis plates and new package variants.
 
-![DPA](xrx.jpg){ width="500" }
+Community opinion remained divided throughout the platform's lifetime. While experienced owners often described the chassis as highly capable once properly tuned, many beginners struggled with its setup-sensitive nature. The early Sport version also received criticism for the durability of some plastic parts, aluminum differential cups, steering rack adjustment, the need for careful tuning and lack of wheelbase adjustment. Many of these issues were gradually addressed through later updates and optional parts.
 
-Information from Facebook posts, before first version states that it comes with:
-- fixed 94mm wheelbase, with option plate for 98mm wheelbase
-- ball differential(maybe only as optional part)
-- it is currently unclear whether this early DPA configuration was publicly available as a retail product, or if DPA Sport marked the first official public release
+By the time the completely redesigned [DPA2](../xrx-dpa2/page.md) arrived, the original DPA had already evolved through years of incremental refinement. Although eventually replaced as XRX's flagship platform, the company never completely abandoned the design, revisiting it through later editions before bringing it back as the DPA Classic Edition in 2026.
 
+--
+
+**XRX DPA Sport**
+
+![Sport](dpas.jpg){ width="500" }
 
 ---
 
 **Limited edition red anodized aluminum XRX DPA**
 
-![XRX-DPA-RED](xrxred.jpg)
+![XRX-DPA-RED](xrxred.jpg){ width="500" }
 
 Unconfirmed information states that only 100 units of the red version were ever made.
 
@@ -165,7 +181,7 @@ Unconfirmed information states that only 100 units of the red version were ever 
 
 **2026 XRX DPA re-release**
 
-![XRX-2026](dpa2026.jpg)
+![XRX-2026](dpa2026.jpg){ width="500" }
 
 
 
@@ -188,6 +204,7 @@ Have extra info or experience with this chassis? [Contribute here](../../contrib
 
 
 ## Sources / credits / reviews
+XRX, DriftaHolics RC, Adolf Oliver Bush
 
 
 

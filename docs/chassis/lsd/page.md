@@ -12,7 +12,7 @@
 
 - **Developed by:** *LS Studio*
 
-- **Release:** *January 2023*
+- **Release:** *December 2022*
 
 - **Origin:** *China*
 
@@ -132,9 +132,11 @@
 
 - **Shocks type:** *friction shocks*
 
+## Community ratings
 
+<div class="chassis-rating" data-slug="lsd"></div>
 
-## Notes
+## History & Development
 
 LS Studios quickly gained a reputation for exceptional manufacturing quality, precision fitment, and visual appeal. As the brand's first product, the LSD platform helped establish LS Studios as a serious competitor in the premium segment of the small-scale drift market.
 

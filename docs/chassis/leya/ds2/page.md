@@ -132,9 +132,11 @@
 
 - **Shocks type:** *friction shocks*
 
+## Community ratings
 
+<div class="chassis-rating" data-slug="ds2"></div>
 
-## Notes
+## History & Development
 
 DS2 was born as evolution of the previous [DS1-R](../ds1-r/page.md) chassis
 
@@ -154,7 +156,7 @@ The successor evolved went through a lof of redesign and innovations to be born 
 
 
 
-Have extra info or experience with this chassis? [Contribute here](../../contribute/contribute.md)
+Have extra info or experience with this chassis? [Contribute here](../../../contribute/contribute.md)
 
 
 

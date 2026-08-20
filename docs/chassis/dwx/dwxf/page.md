@@ -2,7 +2,7 @@
 
 
 
-![name](pic.jpg){ width="500" }
+![name](dwxf.jpg){ width="500" }
 
 
 
@@ -98,7 +98,7 @@
 
 - **Motor orientation:** *transverse*
 
-- **Forces:** *pro-torque / anti-torqu - depending on gearbox choices*
+- **Forces:** *pro-torque / anti-torque - depending on gearbox choices*
 
 - **Reversible:** ✅
 
@@ -130,9 +130,11 @@
 
 - **Shocks type:** *friction shocks*
 
+## Community ratings
 
+<div class="chassis-rating" data-slug="dwxf"></div>
 
-## Notes
+## History & Development
 
 
 
@@ -150,7 +152,7 @@
 
 
 
-Have extra info or experience with this chassis? [Contribute here](../../contribute/contribute.md)
+Have extra info or experience with this chassis? [Contribute here](../../../contribute/contribute.md)
 
 
 

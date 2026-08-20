@@ -135,9 +135,11 @@
 
 - **Shocks type:** *friction shocks*
 
+## Community ratings
 
+<div class="chassis-rating" data-slug="tgtt"></div>
 
-## Notes
+## History & Development
 
 - You need the wide track upgrade and extendable dogbones if you plan to run it with medium-big 1/24 bodies, because of the limited stock track width and wheelbase. 
 

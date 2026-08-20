@@ -1,4 +1,9 @@
-# DriftART2 Evolution
+---
+title: DriftART 2
+description: Technical overview, specifications, adjustability and background information for the DriftART 2 small-scale RWD drift chassis.
+og_image: https://darol0o5.github.io/Guide/assets/og/da2.jpg
+---
+# DriftART 2
 
 
 
@@ -10,9 +15,9 @@
 
 
 
-- **Developed by:** *DriftART (Mr. Chen)*
+- **Developed by:** *DriftART*
 
-- **Release:** *October 2020*
+- **Initial Release:** *October 2020*
 
 - **Origin:** *China*
 
@@ -56,7 +61,7 @@
 
 - **Rear shocks:** preload ✅ / angle ✅
 
-- **Active systems:** ✅ (upgrade parts)
+- **Active systems:** ✅ (with optional parts or upgraded versions)
 
 - **Motor position:** mid ✅ / high ✅ / rear ✅
 
@@ -78,7 +83,7 @@
 
 - **Wheelbase range:** *90–130+ mm (DA2.5CC and DA2.5SX 87.5mm-138mm)*
 
-- **Track width range:** *~65~75 mm (optional wide arms upgrade for more up to 88mm)*
+- **Track width range:** *65-75 mm (optional wide arms upgrade for up to 88 mm)*
 
 - **Caster adjustment:** *stepless*
 
@@ -94,7 +99,7 @@
 
 ## Drivetrain
 
-- **Gearbox type:** *belt-driven / (v-belt upgrade parts)*
+- **Gearbox type:** *belt-driven (v-belt)*
 
 - **Motor orientation:** *transverse*
 
@@ -102,7 +107,7 @@
 
 - **Reversible:** ✅
 
-- **Differential:** *spool / open ball diff(upgrade)*
+- **Differential:** *spool / ball diff(optional part)*
 
 - **Extendable CVD:** ✅
 
@@ -116,7 +121,7 @@
 
 ## Steering
 
-- **Steering method:** *direct* (DVF-3D steering system optional upgrade)
+- **Steering method:** *direct* (optional DVF-3D steering system)
 
 - **Servo position:** *lower deck*
 
@@ -134,36 +139,38 @@
 
 - **Shocks type:** *friction shocks*
 
+## Community ratings
 
+<div class="chassis-rating" data-slug="da2"></div>
 
-## Notes
+## History & Development
 
-Interesting facts:
+When DriftArt2 was introduced in late 2020, the small-scale RWD drift scene had already become one of the fastest-growing and most competitive periods in the hobby's history. New production chassis such as [DRZv2](../../atomic/drz2/page.md), [BMR-X](../../bm-racing/bmrx/page.md), [GLD](../../gld/page.md) and [TRCv2](../../trc/trc2/page.md) had rapidly expanded the market, each exploring different approaches to small-scale RWD drifting.
 
-- the kit comes with tools for assembly, including nails, tweezers, screwdriver etc.
+Several mechanisms departed noticeably from contemporary designs, reflecting DriftArt's willingness to rethink established engineering solutions. This philosophy extended to the drivetrain, becoming the first known production small-scale RWD drift chassis to introduce a belt-driven transmission, an approach later adopted by several other manufacturers.
 
-- a few different spring sets are included
+Owners quickly recognised both the strengths and demands of the platform. The chassis earned widespread praise for its manufacturing quality, versatility and engineering, while also developing a reputation as one of the most demanding production kits of its era to assemble, making it better suited to experienced hobbyists than complete beginners. The belt-driven transmission was frequently discussed as a trade-off, offering a noticeably quieter driving experience than conventional gear-driven layouts at the expense of drivetrain free-roll when off throttle. Whether this was considered an advantage or a disadvantage largely depended on individual driving style and personal preference.
 
-- DriftART2 had many versions, until it evolved to DriftART3
+DriftArt's long-term significance extended well beyond the original chassis itself. Unlike many contemporary upgrade parts of the period, which primarily replaced existing parts with CNC equivalents, DriftArt modules frequently introduced entirely new functionality, alternative suspension concepts and revised mechanical systems. Successive generations continued to build upon these ideas, creating an upgrade ecosystem that remained relevant across multiple generations instead of becoming obsolete with each new release.
 
-The DriftArt2 chassis...no it feels wrong calling it just a chassis, because it's not! It started as one, but it evolved in an ecosystem with improvements, op parts, experimental solutions and more. You could see two DriftART2 chassis and they could be totally different. And not just visually or updated materials. New systems were introduced, the way certain things work was revised. DriftART2 was born as a chassis, but it became a constantly evolving idea of chasing the ultimate design, hunger for more innovation and aiming for perfection. 
+Over the following years, each new DriftArt generation continued to build the brand's reputation within the small-scale RWD drift community. Consistent product support, functional upgrades and long-term platform development established DriftArt as one of the hobby's most widely recommended chassis families, a reputation that continues to this day.
 
 
 **Evolution chronology:**
 
-- **February 2021:** some aluminum parts. Limited DriftART2 Spring Edition with 7075 aluminum gearbox and teasers of other future upgrades.
+- **February 2021:** Introduction of the first optional 7075 aluminum components, including the Spring Edition gearbox, together with teasers of future upgrades.
 
-- **April 2021:** pre-assembled version and more teasers.
+- **April 2021:** Introduction of a factory pre-assembled version alongside previews of additional upcoming upgrades.
 
-- **May-July 2021:** many updates were introduced and that led to the DriftART2.5 Summer Edition release.
+- **May-July 2021:** Introduction of numerous mechanical updates, ultimately leading to the release of DriftART2.5 Summer Edition.
 
 ![DA2.5SE](da2.5se.jpg){ width="500" }
 
-- **October 2021:** DriftART2.5 Classic Edition release with simplified 3D steering system comparable to DVF, quick adjustable rods, Kpi steering knuckles, option to install break disks etc.
+- **October 2021:** Introduction of DriftART2.5 Classic Edition featuring the simplified 3D steering system, quick-adjust rods, KPI steering knuckles and optional brake disc installation.
 
 ![DA2.5CC](da2.5cc.jpg){ width="500" }
 
-- **January 2022:** new servo seat with angle adjustment, piston shocks.
+- **January 2022:** Introduction of a new adjustable servo mount and piston shocks.
 
 - **May 2022:** B.R.S body roll system, UX-CVD extendable steel CVD DA2.5CC Plus and DA2.5EX Editions. 
 
@@ -171,9 +178,9 @@ The DriftArt2 chassis...no it feels wrong calling it just a chassis, because it'
 
 - **August 2022:** RGB roll gearbox from 7075 aluminum
 
-I am not even covering all the upgrades , as wide arms and others and it's still a lot as you can see.
+The timeline above highlights only the major milestones. Numerous additional optional parts, revisions and compatibility updates were introduced throughout the platform's lifespan.
 
-- **January 2023:** the successor of DriftART2 was released :octicons-arrow-right-24: [DriftART3S](../driftart3/page.md)
+- **January 2023:** DriftART 2 reached the end of its development cycle and was succeeded by :octicons-arrow-right-24: [DriftART3S](../driftart3/page.md)
 
 
 
@@ -185,7 +192,7 @@ I am not even covering all the upgrades , as wide arms and others and it's still
 
 
 
-Have extra info or experience with this chassis? [Contribute here](../../contribute/contribute.md)
+Have extra info or experience with this chassis? [Contribute here](../../../contribute/contribute.md)
 
 
 
@@ -195,5 +202,9 @@ Have extra info or experience with this chassis? [Contribute here](../../contrib
 
 ## Sources / credits / reviews
 
+- DriftART official product photos, promotional materials and release announcements.
+- Chan RC / DriftART community posts and release updates.
+- Community discussions and owner experiences from ChanRC (All 1/24 & 1/28 Drifting GROUP), Micro RC RWD Drift Group and Small Scale Drifters.
+- Personal discussions with experienced DriftART owners and builders.
 
 

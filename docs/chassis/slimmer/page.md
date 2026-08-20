@@ -272,9 +272,11 @@
 
 
 
+## Community ratings
 
+<div class="chassis-rating" data-slug="slimmer"></div>
 
-## Notes
+## History & Development
 
 The predecessor of Slimmer is [K-EP Rehope Pro](../rehope/page.md)
 

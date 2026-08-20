@@ -132,9 +132,11 @@
 
 - **Shocks type:** *friction shocks*
 
+## Community ratings
 
+<div class="chassis-rating" data-slug="bmrxevoii"></div>
 
-## Notes
+## History & Development
 
 The EVOII further refined the EVO platform with a redesigned steering system, expanded wheelbase and track width compatibility and support for both model kits and Mini-Z bodies.
 
@@ -149,7 +151,7 @@ The EVOII further refined the EVO platform with a redesigned steering system, ex
 
 
 
-Have extra info or experience with this chassis? [Contribute here](../../contribute/contribute.md)
+Have extra info or experience with this chassis? [Contribute here](../../../contribute/contribute.md)
 
 
 

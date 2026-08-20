@@ -130,9 +130,11 @@
 
 - **Shocks type:** *friction shocks*
 
+## Community ratings
 
+<div class="chassis-rating" data-slug="nero"></div>
 
-## Notes
+## History & Development
 
 
 ![Photo2](nero.jpg){ width="500" }

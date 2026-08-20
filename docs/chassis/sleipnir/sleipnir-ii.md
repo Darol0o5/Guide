@@ -268,9 +268,11 @@
 
 
 
+## Community ratings
 
+<div class="chassis-rating" data-slug="sleipnirii"></div>
 
-## Notes
+## History & Development
 
 
 

@@ -40,19 +40,19 @@
 
 - **Wheelbase:** ✅
 
+- **Track width:** Front ✅ / Rear ✅
+
 - **Camber:** Front ✅ / Rear ✅
 
 - **Camber gain:** Front ✅ / Rear ✅
-
-- **Toe:** Front ✅ / Rear ❌ (2° toe-in)
 
 - **Caster:** ✅
 
 - **Ackermann quick adjustment:** ✅
 
-- **Ride height:** Front ✅ / Rear ✅
+- **Toe:** Front ✅ / Rear ❌ (2° toe-in stock and 0° toe with optional part)
 
-- **Track width:** Front ✅ / Rear ✅
+- **Ride height:** Front ✅ / Rear ✅
 
 - **Front shocks:** preload ✅ / angle ✅
 
@@ -62,16 +62,17 @@
 
 - **Motor position:** mid ✅ / high ✅ / rear ✅
 
-- **Servo inclination:** ❌
-
 - **Belt tension/Pinion size:** ✅
 
-- **Front KPI adjustment:** ❌
+- **Extendable dogbones:** ✅ 
+
+- **Front KPI:** ❌
 
 - **Steering linkage position on knuckle:** ✅
 
-- **Steering rack linkage position:** ❌
+- **Servo inclination:** ❌
 
+- **Steering rack linkage position:** ❌
 
 
 ### Details
@@ -80,7 +81,7 @@
 
 - **Wheelbase range:** *98–120 mm*
 
-- **Track width range:** *78-90+ mm*
+- **Track width range:** *73-90+ mm*
 
 - **Caster adjustment:** *shims*
 
@@ -132,27 +133,37 @@
 
 - **Shocks type:** *friction shocks*
 
+---
 
 ## Community ratings
 
 <div class="chassis-rating" data-slug="d24"></div>
 
+---
 
-## Notes
+## History & Development
+
+MA Racing had already established a reputation for exceptional quality with its original chassis, as well as its smaller sibling, the D32. This reputation played a significant role in the community's willingness to embrace the D24's premium price tag.
+
+Having already raised the bar themselves, expectations among small-scale drifters were exceptionally high. D24 not only met those expectations but exceeded them, becoming one of the most praised and desirable chassis of its era — a reputation it continues to hold to this day.
+
+Its stunning aesthetics, later enhanced by the introduction of red and purple editions, made the chassis even more desirable. MA also released a limited run of 30 black-and-green units, which have since become among the rarest D24 Variants. Combined with predictable handling and outstanding on-track performance, D24 delivered an experience that felt complete in every aspect.
+
+MA Racing D24 proved that capturing the hearts of RC enthusiasts does not always require revolutionary new concepts. Sometimes, perfecting existing ideas through exceptional engineering, machining quality, fitment, and execution is enough. 
+
+Among its many strengths, the suspension system stood out in particular. The full-metal shock construction with Teflon coating delivered exceptionally smooth operation and was regarded by many as one of the finest at the time. 
+
+D24+ was released in January 2025 in red or purple with optional parts including aluminum chassis plate, body mount, copper rear lower arm mount for 0° toe and brakes kit with color matching calipers. The front upper arms design was updated. 
 
 
-
-Available upgrade parts.
-
-
-
-Stuff
-
+![D24R](d24r.jpg){ width="500" }
+![D24P](d24p.jpg){ width="500" }
+![Plates](plates.jpg){ width="500" }
+![bmt](bmt.jpg){ width="500" }
+![ram](ram.jpg){ width="500" }
 
 
-![Photo2](pic2.jpg){ width="500" }
-
-
+![db](db.jpg){ width="500" }
 
 ---
 
@@ -162,15 +173,15 @@ Stuff
 
 
 
-Have extra info or experience with this chassis? [Contribute here](../../contribute/contribute.md)
+Have extra info or experience with this chassis? [Contribute here](../../../contribute/contribute.md)
 
 
 
 ---
 
 
-
 ## Sources / credits / reviews
 
-
+Jack Nares
+GT55Racing.com
 

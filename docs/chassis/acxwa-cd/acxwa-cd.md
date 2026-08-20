@@ -66,7 +66,11 @@
 - **Rear:**  *double wishbone, independent, 2 direct-acting shocks*
 - **Shocks type:**  *friction shocks*
 
-## Notes
+## Community ratings
+
+<div class="chassis-rating" data-slug="acxwa-cd"></div>
+
+## History & Development
 
 ---
 

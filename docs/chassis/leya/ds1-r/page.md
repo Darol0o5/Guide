@@ -133,9 +133,11 @@
 
 - **Shocks type:** *friction shocks*
 
+## Community ratings
 
+<div class="chassis-rating" data-slug="ds1r"></div>
 
-## Notes
+## History & Development
 
 DS(Drift Spectre) went through a few evolutions during its developement.
 First known as DS1 was equiped with slide rack steering system.
@@ -177,7 +179,7 @@ With a few redesigns, such as reversible gearbox, the DS1 platform evolved to [L
 
 
 
-Have extra info or experience with this chassis? [Contribute here](../../contribute/contribute.md)
+Have extra info or experience with this chassis? [Contribute here](../../../contribute/contribute.md)
 
 
 

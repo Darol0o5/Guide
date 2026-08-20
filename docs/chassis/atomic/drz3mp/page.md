@@ -132,9 +132,11 @@
 
 - **Shocks type:** *friction shocks*
 
+## Community ratings
 
+<div class="chassis-rating" data-slug="drz3mp"></div>
 
-## Notes
+## History & Development
 
 Direct drive steering option, with crank only compatible with servos with 3.5 to 3.9mm spline. A few examples from GT55racing.com: 
 -Atomic 1885
@@ -154,7 +156,7 @@ Direct drive steering option, with crank only compatible with servos with 3.5 to
 
 
 
-Have extra info or experience with this chassis? [Contribute here](../../contribute/contribute.md)
+Have extra info or experience with this chassis? [Contribute here](../../../contribute/contribute.md)
 
 
 

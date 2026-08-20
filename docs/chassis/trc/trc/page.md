@@ -1,9 +1,14 @@
+---
+title: TRC
+description: Technical overview, specifications, adjustability and background information for the TRC small-scale RWD drift chassis.
+og_image: https://darol0o5.github.io/Guide/assets/og/trc.jpg
+---
+
 # TRC
 
 
 
 ![TRC](trcp.jpg){ width="500" }
-
 
 
 ## Quick facts
@@ -16,7 +21,7 @@
 
 - **Origin:** *China*
 
-- **Status:** *Unicorn (discontinued)*
+- **Status:** *Discontinued*
 
 - **Production:** *Limited edition - only 30 kits were ever made*
 
@@ -27,9 +32,7 @@
 - **Materials:** *Anodized aluminum, carbon fiber, magnets, stainless steel, injection molded plastic*
 
 
-
 ---
-
 
 
 ## Adjustability
@@ -40,19 +43,21 @@
 
 - **Wheelbase:** ✅
 
+- **Track width:** Front ✅ / Rear ✅
+
 - **Camber:** Front ✅ / Rear ✅
 
-- **Toe:** Front ✅ / Rear ✅
+- **Camber gain:** Front ❌ / Rear ❌
 
-- **Caster:** Not confirmed(looks like it's adjustable with spacers)
+- **Caster:** ✅ Not confirmed(looks like it's adjustable with spacers)
 
 - **Ackermann quick adjustment:** ✅
 
-- **Ride height:** Front ✅ / Rear ✅ 
+- **Toe:** Front ✅ / Rear ✅
 
-- **Track width:** Front ✅ / Rear ✅ 
+- **Ride height:** Front ✅ / Rear ✅  
 
-- **Front shocks:** Preload ✅  / Angle (not confirmed)
+- **Front shocks:** Preload ✅  / Angle ✅(not confirmed)
 
 - **Rear shocks:** Preload ✅  / Angle ✅ 
 
@@ -60,15 +65,15 @@
 
 - **Motor position:** mid ❌ / high ✅ / rear ✅
 
-- **Servo position:** ✅
+- **Belt tension/Pinion size:** ✅
 
-- **Pinion-Spur distance:** ✅ 
+- **Extendable dogbones:** ❌ (not confirmed)
 
-- **Front knuckle KPI hinge point:** ✅
+- **Front knuckle KPI:** ✅
 
-- **Front knuckle steering linkage hinge point:** ❌
+- **Steering linkage position on knuckle:** ❌
 
-- **Steering rack linkage hinge point:** ✅
+- **Steering rack linkage position:** ✅
 
 
 
@@ -80,7 +85,7 @@
 
 - **Track width range:** *??–?? mm*
 
-- **Caster adjustment:** *not confirmed*
+- **Caster adjustment:** *shims(not confirmed)*
 
 - **Ackermann adjustment:** *stepless*
 
@@ -116,9 +121,6 @@
 
 - **Steering system:** *four wheel steering available*
 
-- **Servo position:** *upper deck*
-
-
 
 ---
 
@@ -132,21 +134,28 @@
 
 - **Shocks type:** *friction shocks(unconfirmed information that oil-filled shocks were used, but according to available images, the shocks we can see are exactly the same, used at Orlandoo Hunter)*
 
+## Community ratings
 
+<div class="chassis-rating" data-slug="trc"></div>
 
-## Notes
+## History & Development
 
-Limited number labeled chassis plate and setup board from 01/30 to 30/30
+When the TRC was introduced in late 2019, most RWD drift chassis still followed relatively conventional suspension and steering layouts. Rather than refining existing concepts, Tommy RC focused on introducing several advanced engineering solutions that were almost unheard of at the time.
+
+The chassis introduced active caster geometry, adjustable dynamic rear toe with optional four-wheel steering, adjustable KPI and a highly configurable suspension layout. Even by today's standards, this remains one of the most mechanically sophisticated RWD drift chassis from the hobby's early years.
+
+Each kit included a numbered chassis plate and matching setup board, with only 30 sets produced (01/30–30/30).
 
 ![TRC](trc.jpg){ width="500" }
 
-15 of them were anodized in pink, the other 15 in purple
+15 of them were anodized in pink, the other 15 in purple.
 
 ![TRC](trc12.jpg){ width="500" }
 
 ![TRC](trc11.jpg){ width="500" }
 
-
+TRC first gained attention among the international community through images shared by Mikos (DriftaHolics RC). The limited production run sold out almost immediately, and only a handful of enthusiasts outside China ever managed to acquire one on the used market.
+Many of the ideas explored on the original TRC would later become more common on high-end drift chassis. Tommy RC continued pushing the concept further with the even more ambitious [TRC v2](../trc2/page.md).  
 
 ---
 
@@ -156,7 +165,7 @@ Limited number labeled chassis plate and setup board from 01/30 to 30/30
 
 
 
-Have extra info or experience with this chassis? [Contribute here](../../contribute/contribute.md)
+Have extra info or experience with this chassis? [Contribute here](../../../contribute/contribute.md)
 
 
 
@@ -165,6 +174,6 @@ Have extra info or experience with this chassis? [Contribute here](../../contrib
 
 
 ## Sources / credits / reviews
-
+TC Emre Yurdakul, DriftaHolics RC, ChanRC, Mohamed Ali Farah
 
 

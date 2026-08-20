@@ -132,9 +132,11 @@
 
 - **Shocks type:** *friction shocks*
 
+## Community ratings
 
+<div class="chassis-rating" data-slug="d1pro"></div>
 
-## Notes
+## History & Development
 
 G-Force D1 has been promoted with 3 versions to choose from: 
 

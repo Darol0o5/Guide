@@ -65,7 +65,11 @@
 - **Rear:** *multi-link, independent, 2 shocks*
 - **Shocks type:** *friction shocks*
 
-## Notes
+## Community ratings
+
+<div class="chassis-rating" data-slug="rts"></div>
+
+## History & Development
 
 Available upgrade parts.
 

@@ -65,7 +65,7 @@ Legowo Setiawan and Mr. Kim are responsible for the existence of the first comme
 
 ---
 
-## 2018 Birth of the Atomic DRZ
+## 2018 Birth of the [Atomic DRZ](../chassis/atomic/drz/page.md)
 
 ![Atomic DRZ](atomic-drz.jpg){ width="500" }
 

@@ -130,9 +130,11 @@
 
 - **Shocks type:** *friction shocks*
 
+## Community ratings
 
+<div class="chassis-rating" data-slug="metax"></div>
 
-## Notes
+## History & Development
 
 
 One of the design focuses was to make the car lightweight.
@@ -173,7 +175,7 @@ Some customers reported QC-related issues and felt that certain design choices w
 
 
 
-Have extra info or experience with this chassis? [Contribute here](../../contribute/contribute.md)
+Have extra info or experience with this chassis? [Contribute here](../../../contribute/contribute.md)
 
 
 

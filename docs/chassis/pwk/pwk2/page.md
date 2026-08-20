@@ -130,9 +130,12 @@
 
 - **Shocks type:** *friction shocks*
 
+## Community ratings
 
+<div class="chassis-rating" data-slug="pwk2"></div>
 
-## Notes
+## History & Development
+
 PWK V2 was an evolution of the original PWK platform with the most noticeable changes being:
 
 - rear motor layout
@@ -164,7 +167,7 @@ The V2SE, SD and RR/MR gave more options for different styles:
 
 
 
-Have extra info or experience with this chassis? [Contribute here](../../contribute/contribute.md)
+Have extra info or experience with this chassis? [Contribute here](../../../contribute/contribute.md)
 
 
 

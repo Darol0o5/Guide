@@ -13,8 +13,8 @@ This catalogue includes CNC, 3D-printed, limited-run and experimental designs.
 - [![ATOMIC DRZ](atomic/drz/drz.jpg)](atomic/drz/page.md)
   **[ATOMIC DRZ](atomic/drz/page.md)**
 
-- [![Techstorm XRX DPA Sport](xrx-dpa/dpas.jpg)](xrx-dpa/page.md)
-  **[Techstorm XRX DPA Sport](xrx-dpa/page.md)**  
+- [![Techstorm XRX DPA MK1/Sport](xrx-dpa/dpared.jpg)](xrx-dpa/page.md)
+  **[Techstorm XRX DPA MK1/Sport](xrx-dpa/page.md)**  
 
 - [![DriftART](da/driftart/da1.jpg)](da/driftart/page.md)
   **[DriftART](da/driftart/page.md)**  
@@ -28,6 +28,9 @@ This catalogue includes CNC, 3D-printed, limited-run and experimental designs.
 - [![BM Racing BMR-X](bm-racing/bmrx/bmrx-standard.jpg)](bm-racing/bmrx/page.md)
   **[BM Racing BMR-X](bm-racing/bmrx/page.md)**  
 
+- [![DKMK2](dk/dkmk2/dkmk22.png)](dk/dkmk2/page.md)
+  **[DKMK2](dk/dkmk2/page.md)** 
+
 - [![TRC V2](trc/trc2/trcv2.jpg)](trc/trc2/page.md)
   **[TRC V2](trc/trc2/page.md)**
 
@@ -37,35 +40,29 @@ This catalogue includes CNC, 3D-printed, limited-run and experimental designs.
  - [![Atomic DRZ2](atomic/drz2/drz2.jpg)](atomic/drz2/page.md)
    **[Atomic DRZ2](atomic/drz2/page.md)** 
 
-- [![DriftART 2](da/driftart2/driftart2.jpg)](da/driftart2/page.md)
-  **[DriftART 2](da/driftart2/page.md)**  
+- [![DriftART 2](da/driftart2/da.jpg)](da/driftart2/page.md)
+  **[DriftART 2](da/driftart2/page.md)**   
 
-- [![DKMK2](dk/dkmk2/dkmk22.png)](dk/dkmk2/page.md)
-  **[DKMK2](dk/dkmk2/page.md)**  
+- [![DWX](dwx/dwx3/dwx3m.jpg)](dwx/dwx2/page.md)
+  **[DWX / DWX3 / DWX-F](dwx/dwx2/page.md)**
 
 - [![HT1](ht1/ht1.jpg)](ht1/page.md)  
   **[HT1](ht1/page.md)**
 
-- [![DWX](dwx/dwx2/dwx.jpg)](dwx/dwx2/page.md)
-  **[DWX2 & DWX3](dwx/dwx2/page.md)**
+- [![DKMK3](dk/dkmk3/dkmk3.jpg)](dk/dkmk3/page.md)
+  **[DKMK3](dk/dkmk3/page.md)**
 
 - [![MA Racing](mar/ma-racing/ma-v1.5.jpg)](mar/ma-racing/page.md)
   **[MA Racing](mar/ma-racing/page.md)**  
 
-- [![Zero RW00](rw00/rw00le.jpg)](rw00/page.md)
-  **[Zero RW00](rw00/page.md)**
-
-- [![DKMK3](dk/dkmk3/dkmk3.png)](dk/dkmk3/page.md)
-  **[DKMK3](dk/dkmk3/page.md)**  
-
-- [![DWX-F](dwx/dwxf/dwxf.jpg)](dwx/dwxf/page.md)
-  **[DWX-F](dwx/dwxf/page.md)**
-
-- [![Drift Life One](dlo/dlo.jpg)](dlo/page.md)
-  **[Drift Life One](dlo/page.md)**
+- [![Zero RW00](rw00/rw00.jpg)](rw00/page.md)
+  **[Zero RW00 / RW00S / RW00SR](rw00/page.md)**
 
 - [![Drifting Beast](drifting-beast/db.jpg)](drifting-beast/page.md)
-  **[Drifting Beast](drifting-beast/page.md)**  
+  **[Drifting Beast](drifting-beast/page.md)**
+
+- [![Drift Life One](dlo/dlo.jpg)](dlo/page.md)
+  **[Drift Life One](dlo/page.md)**  
 
 - [![XRX DPA2](xrx-dpa2/dpa2.jpg)](xrx-dpa2/page.md)
   **[XRX DPA2](xrx-dpa2/page.md)**
@@ -100,8 +97,8 @@ This catalogue includes CNC, 3D-printed, limited-run and experimental designs.
 - [![BMR-X EVO](bm-racing/bmrx-evo/bmrxevo.jpg)](bm-racing/bmrx-evo/page.md)
   **[BMR-X EVO](bm-racing/bmrx-evo/page.md)**
 
-- [![TG Super 2.0](tg/tg-super/tg2.jpg)](tg/tg-super/page.md)
-  **[TG Super 2.0](tg/tg-super/page.md)**
+- [![TG Super](tg/tg-super/tgs.jpg)](tg/tg-super/page.md)
+  **[TG Super](tg/tg-super/page.md)**
 
 - [![MA Racing D24](mar/d24/d24.jpg)](mar/d24/page.md)  
   **[MA Racing D24](mar/d24/page.md)**
@@ -121,7 +118,7 @@ This catalogue includes CNC, 3D-printed, limited-run and experimental designs.
 - [![TRC META X](trc/meta-x/xmax.jpg)](trc/meta-x/page.md)  
   **[TRC META X](trc/meta-x/page.md)**
 
-- [![Ark Ede AE28U](ark-edge/ae28u/ae28u.jpg)](ark-edge/ae28u/page.md)
+- [![Ark Ede AE28U](ark-edge/ae28u/ae28.jpg)](ark-edge/ae28u/page.md)
   **[Ark Edge AE28U](ark-edge/ae28u/page.md)**
 
 - [![MA Racing](mar/dlr8/dlr8.jpg)](mar/dlr8/page.md)

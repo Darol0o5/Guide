@@ -130,9 +130,11 @@
 
 - **Shocks type:** *friction shocks*
 
+## Community ratings
 
+<div class="chassis-rating" data-slug="meta"></div>
 
-## Notes
+## History & Development
 
 The META was one of the more feature-rich chassis of its time, offering a wide adjustment range together with a large ecosystem of optional parts and upgrades.
 
@@ -163,7 +165,7 @@ One of the more practical design details was the rear shock tower, which incorpo
 
 
 
-Have extra info or experience with this chassis? [Contribute here](../../contribute/contribute.md)
+Have extra info or experience with this chassis? [Contribute here](../../../contribute/contribute.md)
 
 
 

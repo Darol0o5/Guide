@@ -205,9 +205,11 @@
 - **Shocks type:** *friction shocks*
 
 
+## Community ratings
 
+<div class="chassis-rating" data-slug="sleipniriii"></div>
 
-## Notes
+## History & Development
 
 
 WIP

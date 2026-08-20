@@ -130,9 +130,11 @@
 
 - **Shocks type:** *friction shocks*
 
+## Community ratings
 
+<div class="chassis-rating" data-slug="kodama"></div>
 
-## Notes
+## History & Development
 
 Onisiki Kodama shares many similarities with the [BMR-X PRO](../bm-racing/bmrx-pro/page.md).
 

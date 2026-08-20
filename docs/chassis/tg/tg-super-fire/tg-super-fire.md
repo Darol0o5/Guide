@@ -67,7 +67,11 @@
 - **Rear:**  *multi-link, independent, 2 direct-acting shocks*
 - **Shocks type:**  *friction shocks*
 
-## Notes
+## Community ratings
+
+<div class="chassis-rating" data-slug="tgsf"></div>
+
+## History & Development
 
 - Two sets of springs supplied
 - A few users complained about the stock shocks not being good enough

@@ -1,152 +1,156 @@
+---
+title: NLSD
+description: Technical overview, specifications, adjustability and background information for the NLSD small-scale RWD drift chassis.
+og_image: https://darol0o5.github.io/Guide/assets/og/nlsd.jpg
+---
+
 # Chassis
 
 
-
-![name](pic.jpg){ width="500" }
-
+![NLSD](nlsd.jpg){ width="500" }
 
 
 ## Quick facts
 
 
+- **Developed by:** *LS Studios*
 
-- **Developed by:** *brand/author*
+- **Release:** *January 2024*
 
-- **Release:** *Month YYYY*
+- **Origin:** *China*
 
-- **Origin:** *Country*
+- **Status:** *Discontinued*
 
-- **Status:** *Available/Pre-Order/Discontinued/Unknown*
+- **Production:** *Batch*
 
-- **Production:** *Batch/Pre-order/Mass/Prototype*
-
-- **Scale:** *1/24*
+- **Scale:** *1/24-1/28*
 
 - **Body mounting:** *Magnet mounting/MINI-Z*
 
 - **Materials:** *materials*
 
 
-
 ---
-
 
 
 ## Adjustability
 
 
-
 ### At-a-glance
 
-- **Wheelbase:** ✅ ❌
+- **Wheelbase:** ✅
 
-- **Camber:** Front ✅ ❌ / Rear ✅ ❌
+- **Track width:** ✅
 
-- **Toe:** Front ✅ ❌ / Rear ✅ ❌
+- **Camber:** Front ✅ / Rear ✅
 
-- **Caster:** ✅ ❌
+- **Camber gain:** Front ❌ / Rear ❌
 
-- **Ackermann quick adjustment:** ✅ ❌
+- **Caster:** ✅
 
-- **Ride height:** Front ✅ ❌ / Rear ✅ ❌
+- **Ackermann quick adjustment:** ✅
 
-- **Track width:** Front ✅ ❌ / Rear ✅ ❌
+- **Toe:** Front ✅ / Rear ❌ -3
 
-- **Front shocks:** preload ✅ ❌ / angle ✅ ❌
+- **Ride height:** Front ✅ / Rear ✅
 
-- **Rear shocks:** preload ✅ ❌ / angle ✅ ❌
+- **Front shocks:** preload ✅ / angle ✅
 
-- **Active systems:** ❌ ✅
+- **Rear shocks:** preload ✅ / angle ✅
 
-- **Motor position:** mid ❌ ✅ / high ✅ ❌ / rear ✅ ❌
+- **Active systems:** ❌
 
-- **Servo position:** ✅ ❌
+- **Motor position:** mid ✅ / mid-high ✅ / rear ✅
 
-- **Pinion-Spur distance:** ✅ ❌
+- **Belt tension/Pinion size:** ✅
 
-- **Front knuckle KPI hinge point:** ❌ ✅
+- **Extendable dogbones:** ❌
 
-- **Front knuckle steering linkage hinge point:** ❌ ✅
+- **Front knuckle KPI:** ❌
 
-- **Steering rack linkage hinge point:** ✅ ❌
+- **Steering linkage position on knuckle:** ❌
 
+- **Steering rack linkage position:** ❌
 
 
 ### Details
 
-- **Wheelbase adjustment method:** *slider / steps*
+- **Wheelbase adjustment method:** *slider*
 
-- **Wheelbase range:** *xx–yyy mm*
+- **Wheelbase range:** *84–110 mm*
 
-- **Track width range:** *xx–yy mm*
+- **Track width range:** *Front 66–77(up to 83 mm with op parts) mm / Rear 66-80 mm*
 
-- **Caster adjustment:** *stepless/steps/shims/static*
+- **Caster adjustment:** *stepless*
 
-- **Ackermann adjustment:** *stepless/steps/static/shims*
+- **Ackermann adjustment:** *stepless*
 
-- **Rear toe behavior:** *adjustable/static/unknown/dynamic*
-
+- **Rear toe behavior:** *static*
 
 
 ---
-
 
 
 ## Drivetrain
 
-- **Gearbox type:** *gear-driven / belt-driven (mixed gears) / (v-belt)*
+- **Gearbox type:** *gear-driven / belt-driven(optional)*
 
-- **Motor orientation:** *transverse/ longitudinal*
+- **Motor orientation:** *transverse*
 
-- **Forces:** *pro-torque / anti-torque*
+- **Forces:** *anti-torque*
 
-- **Reversible:** ✅ ❌
+- **Reversible:** ✅
 
-- **Differential:** *spool / Open / Ball / LSD*
-
+- **Differential:** *Spool / Ball (optional)*
 
 
 ---
-
 
 
 ## Steering
 
-- **Steering method:** *direct / pivoted*
+- **Steering method:** *pivoted*
 
-- **Steering system:** *bellcrank / wiper / slide rack*
+- **Steering system:** *dual wiper*
 
-- **Servo position:** *bulkhead mounted / upper deck / lower deck*
-
+- **Servo position:** *lower deck*
 
 
 ---
 
 
-
 ## Suspension
 
-- **Front:** *double wishbone, independent, 2 shocks*
+- **Front:** *double wishbone, independent, 2 longitudinal cantilever shocks*
 
-- **Rear:** *multi-link, independent, 2 shocks*
+- **Rear:** *double wishbone, independent, 2 longitudinal cantilever shocks / horizontal shocks (with optional parts)*
 
 - **Shocks type:** *friction shocks*
 
 
-
-## Notes
-
+---
 
 
-Available upgrade parts.
+## Community ratings
+
+<div class="chassis-rating" data-slug="CHASSIS"></div>
 
 
-
-Stuff
-
+---
 
 
-![Photo2](pic2.jpg){ width="500" }
+## History & Development
+
+Following the original LSD, the NLSD became LS Studio's second chassis platform. While building upon the experience gained from the LSD, it introduced a substantially redesigned platform that would define the company's distinctive engineering philosophy.
+
+The NLSD quickly became recognizable thanks to its distinctive appearance and unique engineering. Unlike most contemporary chassis, its design could be identified at a glance, while the zero-slop dual wiper-crank steering system and exceptional machining quality made it one of the most precisely manufactured kits of its time.
+
+The community praised the chassis for its outstanding machining quality, extensive use of 5-axis CNC manufacturing and virtually zero mechanical play. Although its premium price placed it beyond the reach of many hobbyists, it was widely regarded as a showcase of what uncompromising engineering could achieve.
+
+The platform later evolved into the LSD Plaid. More importantly, the NLSD reinforced LS Studio's reputation as a manufacturer willing to prioritize engineering quality over production cost, proving that there was a market for ultra-premium small-scale drift chassis.
+
+LSD Plaid - March 2025
+![LSDP](../lsdp/lsdp.jpg){ width="500" }
 
 
 

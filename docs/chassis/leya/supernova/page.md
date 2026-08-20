@@ -126,9 +126,11 @@
 
 - **Shocks type:** *friction shocks*
 
+## Community ratings
 
+<div class="chassis-rating" data-slug="supernova"></div>
 
-## Notes
+## History & Development
 
 Leya Supernova was different than the previus Leya products. 3 Steering types: Direct, Single bellcrank, Dual bellcrank.
 It was more modern with narrow decks, introduced adjustable dynamic rear toe, stepless wheelbase adjustment and a lot of other rich in fine tuning option adjusments. Equipped with battery holders, upper and lower decks, motor mount and rear shock tower made of carbon fiber, it was lighter, faster, and prettier. 
@@ -153,7 +155,7 @@ It was more modern with narrow decks, introduced adjustable dynamic rear toe, st
 
 
 
-Have extra info or experience with this chassis? [Contribute here](../../contribute/contribute.md)
+Have extra info or experience with this chassis? [Contribute here](../../../contribute/contribute.md)
 
 
 

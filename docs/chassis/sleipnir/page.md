@@ -132,9 +132,11 @@
 
 - **Shocks type:** *friction shocks*
 
+## Community ratings
 
+<div class="chassis-rating" data-slug="sleipnir"></div>
 
-## Notes
+## History & Developments
 
 
 **K-EP Sleipnir II**

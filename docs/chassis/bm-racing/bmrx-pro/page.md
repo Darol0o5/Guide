@@ -132,9 +132,11 @@
 
 - **Shocks type:** *friction shocks*
 
+## Community ratings
 
+<div class="chassis-rating" data-slug="bmrxpro"></div>
 
-## Notes
+## History & Development
 
 Limited production of 200 Purple BMR-X PRO units was released by BM Racing in April 2023.
 
@@ -161,7 +163,7 @@ The platform evolved into the [BMR-X EVO](../bmrx-evo/page.md)
 
 
 
-Have extra info or experience with this chassis? [Contribute here](../../contribute/contribute.md)
+Have extra info or experience with this chassis? [Contribute here](../../../contribute/contribute.md)
 
 
 

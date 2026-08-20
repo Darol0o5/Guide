@@ -130,9 +130,11 @@
 
 - **Shocks type:** *friction shocks*
 
+## Community ratings
 
+<div class="chassis-rating" data-slug="pwkl"></div>
 
-## Notes
+## History & Development
 
 
 The main focus of PWK L(Lite) kit is to cheap, but still working.
@@ -151,7 +153,7 @@ The main focus of PWK L(Lite) kit is to cheap, but still working.
 
 
 
-Have extra info or experience with this chassis? [Contribute here](../../contribute/contribute.md)
+Have extra info or experience with this chassis? [Contribute here](../../../contribute/contribute.md)
 
 
 
